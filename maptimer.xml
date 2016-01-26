@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GW2MapTimer>
+  <Map Name="Daytime" Length="120" Start="25">
+    <Event Name="Dawn" Length="5" Color="80ffe37f"/>
+    <Event Name="Day" Length="70" Color="80ffe37f"/>
+    <Event Name="Dusk" Length="5" Color="80ffe37f"/>
+    <Event Name="Night" Length="40" Color="809f99cc"/>
+  </Map>
+  <Map Name="Verdant Brink" Length="120" Start="30">
+    <Event Name="Daytime" Length="75" Color="80c4e2a5"/>
+    <Event Name="Night" Length="25" Color="8084c147"/>
+    <Event Name="Night Bosses" Length="20" Color="806dac2f"/>
+  </Map>
+  <Map Name="Auric Basin" Length="120" Start="60">
+    <Event Name="Octovine" Length="20" Color="80eab700"/>
+    <Event Name="Reset" Length="10" Color="80fff1c1"/>
+    <Event Name="Pillars" Length="75" Color="80ffe37f"/>
+    <Event Name="Challenges" Length="15" Color="80ffd53d"/>
+  </Map>
+  <Map Name="Tangled Depths" Length="120" Start="50">
+    <Event Name="Help the outposts" Length="95" Color="80ffd7d7"/>
+    <Event Name="Prepare" Length="5" Color="80ffbdbd"/>
+    <Event Name="Chak Gerent" Length="20" Color="80ff9999"/>
+  </Map>
+  <Map Name="Dragon's Stand" Length="120" Start="90">
+    <Event Name="Start" Length="120" Color="80aba6d3"/>
+  </Map>
+  <Map Name="Dry Top" Length="60" Start="0">
+    <Event Name="Crash Site" Length="40" Color="80fcfadc"/>
+    <Event Name="Sandstorm" Length="20" Color="80ded98a"/>
+  </Map>
+
+</GW2MapTimer>
