@@ -1,0 +1,123 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode">
+    <MarkerCategory name="Wood" iconFile="Data/Wood.png">
+      <MarkerCategory name="Green"/>
+      <MarkerCategory name="Soft"/>
+      <MarkerCategory name="Seasoned"/>
+      <MarkerCategory name="Hard"/>
+      <MarkerCategory name="Elder"/>
+      <MarkerCategory name="Ancient"/>
+    </MarkerCategory>
+    <MarkerCategory name="Ore" iconFile="Data/Ore.png">
+      <MarkerCategory name="Normal">
+        <MarkerCategory name="Copper"/>
+        <MarkerCategory name="Iron"/>
+        <MarkerCategory name="Silver"/>
+        <MarkerCategory name="Gold"/>
+        <MarkerCategory name="Platinum"/>
+        <MarkerCategory name="Mithril"/>
+        <MarkerCategory name="Orichalcum"/>
+      </MarkerCategory>
+      <MarkerCategory name="Rich">
+        <MarkerCategory name="Copper"/>
+        <MarkerCategory name="Iron"/>
+        <MarkerCategory name="Silver"/>
+        <MarkerCategory name="Gold"/>
+        <MarkerCategory name="Platinum"/>
+        <MarkerCategory name="Mithril"/>
+        <MarkerCategory name="Orichalcum"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Plant" iconFile="Data/Plant.png">
+      <MarkerCategory name="Copper">
+        <MarkerCategory name="BlueberryBush"/>
+        <MarkerCategory name="ButtonMushroom"/>
+        <MarkerCategory name="Carrots"/>
+        <MarkerCategory name="HerbPatch"/>
+        <MarkerCategory name="HerbSeedlings"/>
+        <MarkerCategory name="Lettuce"/>
+        <MarkerCategory name="Onions"/>
+        <MarkerCategory name="Potato"/>
+      </MarkerCategory>
+      <MarkerCategory name="Iron">
+        <MarkerCategory name="Clam"/>
+        <MarkerCategory name="HerbSprouts"/>
+        <MarkerCategory name="Spinach"/>
+        <MarkerCategory name="StrawberryPatch"/>
+        <MarkerCategory name="Taproots"/>
+      </MarkerCategory>
+      <MarkerCategory name="Steel">
+        <MarkerCategory name="Cabbage"/>
+        <MarkerCategory name="Grapes"/>
+        <MarkerCategory name="Kale"/>
+        <MarkerCategory name="RootVegetables"/>
+        <MarkerCategory name="VariedMushrooms"/>
+        <MarkerCategory name="YoungHerbs"/>
+        <MarkerCategory name="Zucchini"/>
+      </MarkerCategory>
+      <MarkerCategory name="Darksteel">
+        <MarkerCategory name="Blackberries"/>
+        <MarkerCategory name="Cauliflower"/>
+        <MarkerCategory name="Coral"/>
+        <MarkerCategory name="MatureHerbs"/>
+        <MarkerCategory name="PortobelloMushrooms"/>
+        <MarkerCategory name="Scallions"/>
+        <MarkerCategory name="SugarPumpkin"/>
+        <MarkerCategory name="VariegatedTaproots"/>
+      </MarkerCategory>
+      <MarkerCategory name="Mithril">
+        <MarkerCategory name="Artichoke"/>
+        <MarkerCategory name="Asparagus"/>
+        <MarkerCategory name="BloomingPassiflora"/>
+        <MarkerCategory name="ButternutSquash"/>
+        <MarkerCategory name="CayennePepper"/>
+        <MarkerCategory name="ClusterOfHerbs"/>
+        <MarkerCategory name="Leeks"/>
+        <MarkerCategory name="Passiflora"/>
+        <MarkerCategory name="Raspberries"/>
+        <MarkerCategory name="VerdantHerbs"/>
+        <MarkerCategory name="WinterRootVegetables"/>
+      </MarkerCategory>
+      <MarkerCategory name="Orichalcum">
+        <MarkerCategory name="BlackCrocus"/>
+        <MarkerCategory name="Cactus"/>
+        <MarkerCategory name="Flax"/>
+        <MarkerCategory name="GhostPepper"/>
+        <MarkerCategory name="JunglePlants"/>
+        <MarkerCategory name="Lotus"/>
+        <MarkerCategory name="Mussels"/>
+        <MarkerCategory name="Omnomberries"/>
+        <MarkerCategory name="OrrianTruffle"/>
+        <MarkerCategory name="SawgillMushrooms"/>
+        <MarkerCategory name="Seaweed"/>
+        <MarkerCategory name="SnowTruffle"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png">
+    <MarkerCategory name="MapSpecific">
+      <MarkerCategory name="DryTop"/>
+      <MarkerCategory name="SilverWastes"  iconSize="0.5" heightOffset="0" behavior="4" resetLength="300"/>
+      <MarkerCategory name="VerdantBrink" iconFile="data/airshippart.png"/>
+      <MarkerCategory name="AuricBasin"/>
+      <MarkerCategory name="TangledDepths" iconFile="data/leylinecrystal.png"/>
+      <MarkerCategory name="DragonsStand" iconFile="Data\crystallineore.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="Permanent"/>
+  </MarkerCategory>
+  <MarkerCategory name="Collectible" iconFile="Data/Achievement.png">
+  </MarkerCategory>  
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="Raid">
+      <MarkerCategory name="Direction_N" iconFile="Data/north.png"/>
+      <MarkerCategory name="Direction_S" iconFile="Data/south.png"/>
+      <MarkerCategory name="Direction_E" iconFile="Data/east.png"/>
+      <MarkerCategory name="Direction_W" iconFile="Data/west.png"/>
+      <MarkerCategory name="Counter_1" iconFile="Data/one.png"/>
+      <MarkerCategory name="Counter_2" iconFile="Data/two.png"/>
+      <MarkerCategory name="Counter_3" iconFile="Data/three.png"/>
+      <MarkerCategory name="Counter_4" iconFile="Data/four.png"/>
+    </MarkerCategory>
+    
+  </MarkerCategory>
+</OverlayData>
