@@ -1,0 +1,22 @@
+<timers>
+	<areatriggeredtimer mapid="1062" enterspherex="-129.058" enterspherey="62.4114" enterspherez="84.9046" entersphererad="27.347263" exitspherex="-129.058" exitspherey="62.4114" exitspherez="84.9046" exitsphererad="100" length="540" resetpointx="-59.5703" resetpointy="72.231" resetpointz="192.469" startdelay="2">
+		<timeevent text="SOUTH CANNON" timestamp="35" countdown="15" onscreentime="10"/>
+		<timeevent text="WEST CANNON"  timestamp="65" countdown="15" onscreentime="10"/>
+		<timeevent text="NORTH CANNON" timestamp="95" countdown="15" onscreentime="10"/>
+		<timeevent text="EAST CANNON"  timestamp="125" countdown="15" onscreentime="10"/>
+		<timeevent text="SOUTH CANNON" timestamp="155" countdown="15" onscreentime="10"/>
+		<timeevent text="NORTH CANNON" timestamp="185" countdown="15" onscreentime="10"/>
+		<timeevent text="WEST CANNON"  timestamp="215" countdown="15" onscreentime="10"/>
+		<timeevent text="EAST CANNON"  timestamp="245" countdown="15" onscreentime="10"/>
+		<timeevent text="SOUTH CANNON" timestamp="275" countdown="15" onscreentime="10"/>
+		<timeevent text="WEST CANNON"  timestamp="305" countdown="15" onscreentime="10"/>
+		<timeevent text="NORTH CANNON" timestamp="335" countdown="15" onscreentime="10"/>
+		<timeevent text="EAST CANNON"  timestamp="365" countdown="15" onscreentime="10"/>
+		<timeevent text="SOUTH CANNON" timestamp="395" countdown="15" onscreentime="10"/>
+		<timeevent text="NORTH CANNON" timestamp="425" countdown="15" onscreentime="10"/>
+		<timeevent text="WEST CANNON"  timestamp="455" countdown="15" onscreentime="10"/>
+		<timeevent text="EAST CANNON"  timestamp="485" countdown="15" onscreentime="10"/>
+		<timeevent text="SOUTH CANNON" timestamp="515" countdown="15" onscreentime="10"/>
+		<timeevent text="ENRAGE"       timestamp="540" countdown="30" onscreentime="10"/>
+	</areatriggeredtimer>
+</timers>
