@@ -1,3 +1,6 @@
 /TacOConfig.xml
 /Screenshots
 /GW2TacO.log
+
+activationdata.xml
+*.log
