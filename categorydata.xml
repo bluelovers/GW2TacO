@@ -1,12 +1,12 @@
 <OverlayData>
-  <MarkerCategory name="ResourceNode">
+  <MarkerCategory name="ResourceNode" fadeFar="500" fadeNear="200" behavior="1">
     <MarkerCategory name="Wood" iconFile="Data/Wood.png">
       <MarkerCategory name="Green"/>
       <MarkerCategory name="Soft"/>
       <MarkerCategory name="Seasoned"/>
       <MarkerCategory name="Hard"/>
       <MarkerCategory name="Elder"/>
-      <MarkerCategory name="Ancient"/>
+      <MarkerCategory name="Ancient" iconFile="Data/Wood-Ancient.png" fadeFar="-1" fadeNear="-1" behavior="0"/>
     </MarkerCategory>
     <MarkerCategory name="Ore" iconFile="Data/Ore.png">
       <MarkerCategory name="Normal">
@@ -16,9 +16,10 @@
         <MarkerCategory name="Gold"/>
         <MarkerCategory name="Platinum"/>
         <MarkerCategory name="Mithril"/>
-        <MarkerCategory name="Orichalcum"/>
+        <MarkerCategory name="Orichalcum" iconFile="Data/Ore-Orichalcum.png" fadeFar="-1" fadeNear="-1" behavior="0"/>
+        <MarkerCategory name="QuartzCrystal" fadeFar="-1" fadeNear="-1" behavior="0"/>
       </MarkerCategory>
-      <MarkerCategory name="Rich">
+      <MarkerCategory name="Rich" iconFile="Data/Ore-Rich.png" fadeFar="-1" fadeNear="-1" behavior="0">
         <MarkerCategory name="Copper"/>
         <MarkerCategory name="Iron"/>
         <MarkerCategory name="Silver"/>
@@ -26,6 +27,7 @@
         <MarkerCategory name="Platinum"/>
         <MarkerCategory name="Mithril"/>
         <MarkerCategory name="Orichalcum"/>
+        <MarkerCategory name="QuartzCrystal" fadeFar="-1" fadeNear="-1" behavior="0"/>
       </MarkerCategory>
     </MarkerCategory>
     <MarkerCategory name="Plant" iconFile="Data/Plant.png">
@@ -68,7 +70,7 @@
       <MarkerCategory name="Mithril">
         <MarkerCategory name="Artichoke"/>
         <MarkerCategory name="Asparagus"/>
-        <MarkerCategory name="BloomingPassiflora"/>
+        <MarkerCategory name="BloomingPassiflora" iconFile="Data/Plant/Passion_Flower.png" fadeFar="-1" fadeNear="-1"/>
         <MarkerCategory name="ButternutSquash"/>
         <MarkerCategory name="CayennePepper"/>
         <MarkerCategory name="ClusterOfHerbs"/>
@@ -81,7 +83,7 @@
       <MarkerCategory name="Orichalcum">
         <MarkerCategory name="BlackCrocus"/>
         <MarkerCategory name="Cactus"/>
-        <MarkerCategory name="Flax"/>
+        <MarkerCategory name="Flax" fadeFar="-1" fadeNear="-1"/>
         <MarkerCategory name="GhostPepper"/>
         <MarkerCategory name="JunglePlants"/>
         <MarkerCategory name="Lotus"/>
@@ -94,7 +96,7 @@
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
-  <MarkerCategory name="Chest" iconFile="Data/Chest.png">
+  <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="500" fadeNear="200">
     <MarkerCategory name="MapSpecific">
       <MarkerCategory name="DryTop"/>
       <MarkerCategory name="SilverWastes"  iconSize="0.5" heightOffset="0" behavior="4" resetLength="300"/>
