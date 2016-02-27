@@ -2,7 +2,9 @@
 <guidescriptor>
   <gui id="gw2pois">
     <GW2TacO id="tacoroot">
+      <GW2RangeDisplay id="ranges"/>
       <GW2TacticalDisplay id="tactical"/>
+      <GW2TacticalCompass id="compass"/>
       <TimerDisplay id="locationaltimer"/>
       <button id="MenuButton"/>
       <MouseHighlight id="mousehighlight"/>
