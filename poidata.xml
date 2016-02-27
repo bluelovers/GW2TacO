@@ -102,14 +102,9 @@
   
     <POI MapID="1015" xpos="-193.913" ypos="341.032" zpos="-240.551" type="tactical.raid.direction_n" GUID="YaqW7UwvAUO6mKq4gAarDA=="/>
   
-    <POI MapID="988" xpos="129.642" ypos="25.9766" zpos="-381.819" type="chest.mapspecific.drytop" GUID="HNlBtMhk4USrl0WQ58n9Lw=="/>
+    <POI MapID="988" xpos="310.079" ypos="21.7492" zpos="-388.903" type="chest.mapspecific.drytop" GUID="Cg0ZN6rYpUCEkjRcgKbv5Q=="/>
   
-    <POI MapID="988" xpos="258.339" ypos="38.2113" zpos="-456.533" type="chest.mapspecific.drytop" GUID="YpJhMjU8hE6P5XLH0bUgtA=="/>
-  
-    <POI MapID="988" xpos="-349.67" ypos="106.38" zpos="-339.258" type="chest.mapspecific.drytop" GUID="r013DpxizEWvyc/BlzVGYA=="/>
-  
-    <POI MapID="988" xpos="-245.118" ypos="90.8004" zpos="-446.347" type="chest.mapspecific.drytop" GUID="koA7UZbnv0+TXoK0noTgzw=="/>
-  
+    <POI MapID="988" xpos="291.459" ypos="46.6883" zpos="-508.848" type="chest.mapspecific.drytop" GUID="BOTn7hsl4UGeCYuT5cJx6g=="/>
     <POI MapID="32" xpos="-307.379" ypos="38.8927" zpos="-543.474" type="resourcenode.ore.normal.iron" GUID="7AdZ4wGk80WGMfu0qJ8fxg=="/>
   
     <POI MapID="32" xpos="-371.508" ypos="53.9753" zpos="-542.042" type="resourcenode.ore.normal.iron" GUID="3wEcL5X4TE+yzFepDwMMCw=="/>
