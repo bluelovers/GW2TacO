@@ -113,7 +113,8 @@
     <MarkerCategory name="Permanent"/>
   </MarkerCategory>
   <MarkerCategory name="Collectible" iconFile="Data/Achievement.png">
-  </MarkerCategory>  
+    <MarkerCategory name="Raid" iconFile="Data/raid1_achievements.png" behavior="3"/>
+  </MarkerCategory>
   <MarkerCategory name="Other" iconFile="Data/bigmarker.png">
 	<MarkerCategory name="Karma" iconFile="Data/Karma.png" heightOffset="5"/>
 	<MarkerCategory name="undefined"/>
