@@ -4465,5 +4465,9 @@
     <POI MapID="1143" xpos="-859.554" ypos="33.747" zpos="229.485" type="resourcenode.plant.undefined" GUID="HdsYQY6F5E6g4A+q2IslTg=="/>
   
     <POI MapID="1143" xpos="-845.436" ypos="33.066" zpos="224.613" type="resourcenode.plant.undefined" GUID="wo25UZZHQkahkiIPbKVYpA=="/>
+  
+    <POI MapID="51" xpos="-544.859" ypos="38.2769" zpos="-147.655" type="other.karma" GUID="dnnA8s/rkEWuNCEWTZ4FOQ=="/>
+  
+    <POI MapID="988" xpos="106.764" ypos="41.6485" zpos="-217.09" type="other.karma" GUID="E+d5eu12hk6SSPGBTifHYA=="/>
   </POIs>
 </OverlayData>
