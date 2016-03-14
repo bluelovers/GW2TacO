@@ -105,5 +105,6 @@
     <POI MapID="988" xpos="310.079" ypos="21.7492" zpos="-388.903" type="chest.mapspecific.drytop" GUID="Cg0ZN6rYpUCEkjRcgKbv5Q=="/>
   
     <POI MapID="988" xpos="291.459" ypos="46.6883" zpos="-508.848" type="chest.mapspecific.drytop" GUID="BOTn7hsl4UGeCYuT5cJx6g=="/>
+  
   </POIs>
 </OverlayData>
