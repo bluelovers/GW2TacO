@@ -19,4 +19,27 @@
 		<timeevent text="SOUTH CANNON" timestamp="515" countdown="15" onscreentime="10"/>
 		<timeevent text="ENRAGE"       timestamp="540" countdown="30" onscreentime="10"/>
 	</areatriggeredtimer>
+	<areatriggeredtimer mapid="1149" enterspherex="-150.859" enterspherey="131.523" enterspherez="149.735" entersphererad="41.432106" exitspherex="-150.859" exitspherey="131.523" exitspherez="149.735" exitsphererad="41.432106" length="600" resetpointx="-65.7187" resetpointy="109.563" resetpointz="79.9329" startdelay="4">
+		<timeevent text="POISON" timestamp="5" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="35" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="65" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="95" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="125" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="155" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="185" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="215" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="245" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="275" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="305" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="335" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="365" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="395" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="425" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="455" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="485" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="515" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="545" countdown="5" onscreentime="0"/>
+		<timeevent text="POISON" timestamp="575" countdown="5" onscreentime="0"/>
+		<timeevent text="ENRAGE" timestamp="600" countdown="25" onscreentime="10"/>
+	</areatriggeredtimer>
 </timers>
