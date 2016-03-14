@@ -1,0 +1,11 @@
+<OverlayData>
+  <POIs>
+    <POI MapID="1149" xpos="208.926" ypos="4.93307" zpos="25.22" type="tactical.raid.counter_1" GUID="orHk62LZ8EyzraKa0gGXKg=="/>
+  
+    <POI MapID="1149" xpos="174.536" ypos="2.41479" zpos="-10.0162" type="tactical.raid.counter_2" GUID="FYA1LPmOl0SeX4qUTWMoyw=="/>
+  
+    <POI MapID="1149" xpos="192.923" ypos="0.846338" zpos="-35.958" type="tactical.raid.counter_3" GUID="y/MQHT7wCkagUkPZlpFa6A=="/>
+  
+    <POI MapID="1149" xpos="224.968" ypos="-0.177503" zpos="-13.498" type="tactical.raid.counter_4" GUID="K4lINKdqcEeKpuQMv9sU1g=="/>
+  </POIs>
+</OverlayData>
