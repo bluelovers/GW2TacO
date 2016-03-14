@@ -1,0 +1,15 @@
+<OverlayData>
+	<MarkerCategory name="Collectible">
+		<MarkerCategory name="ScatteredMemories" iconFile="Data\raid1_achievements.png" behavior="3"/>
+	</MarkerCategory>
+
+	<POIs>
+		<POI MapID="1149" xpos="-47.8204" ypos="81.3711" zpos="-129.051" type="collectible.scatteredmemories" GUID="O5rjyD5E80mHSsVpoYNSiA=="/>
+		<POI MapID="1149" xpos="-35.4179" ypos="105.629" zpos="38.4486" type="collectible.scatteredmemories" GUID="bhEjxrJLGkm6+t96rvT7iA=="/>
+		<POI MapID="1149" xpos="1.3217" ypos="105.807" zpos="120.379" type="collectible.scatteredmemories" GUID="XjaTxzZ9LEW9cCpS/kBsXw=="/>
+		<POI MapID="1149" xpos="-49.0365" ypos="110.487" zpos="134.049" type="collectible.scatteredmemories" GUID="OZQoujcM90CvVtfe6rgqkQ=="/>
+		<POI MapID="1149" xpos="-89.7052" ypos="119.83" zpos="63.3298" type="collectible.scatteredmemories" GUID="b6gWswWNqkaH6FUFkXByyw=="/>
+		<POI MapID="1149" xpos="235.402" ypos="6.85712" zpos="214.311" type="collectible.scatteredmemories" GUID="j65+As+/EE2OBQQrGXk97A=="/>
+		<POI MapID="1149" xpos="-79.1495" ypos="109.698" zpos="180.516" type="collectible.scatteredmemories" GUID="8QLOfC3idkaPsBum/FENBA=="/>
+	</POIs>
+</OverlayData>
