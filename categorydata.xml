@@ -121,6 +121,9 @@
       <MarkerCategory name="Counter_3" iconFile="Data/three.png"/>
       <MarkerCategory name="Counter_4" iconFile="Data/four.png"/>
     </MarkerCategory>
+    <MarkerCategory name="GuildMission">
+      <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>      
+    </MarkerCategory>
     
   </MarkerCategory>
 </OverlayData>
