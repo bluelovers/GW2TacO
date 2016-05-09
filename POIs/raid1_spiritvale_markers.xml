@@ -12,5 +12,8 @@
     <POI MapID="1062" xpos="82.4" ypos="52" zpos="-65.25" type="tactical.raid.counter_2" GUID="wukqGmmDoUW2NE3GRpgJQw=="/>
     <POI MapID="1062" xpos="86.4" ypos="52" zpos="-164.2" type="tactical.raid.counter_3" GUID="qQEQlQ2N8UWC1W2x1tKtvA=="/>
     <POI MapID="1062" xpos="-7.34" ypos="52" zpos="-163.7" type="tactical.raid.counter_4" GUID="dHcWkg5DQEClRd48tKNjqA=="/>
+    <POI MapID="1062" xpos="-91.0706" ypos="60.9373" zpos="-506.081" type="tactical.timed.speedboostmushroom" GUID="trI4Ikkxf0uEl0Of2dGZUg=="/>
+    <POI MapID="1062" xpos="-151.658" ypos="60.9373" zpos="-507.339" type="tactical.timed.speedboostmushroom" GUID="VVruJ+afv0CW7XgO9/unJg=="/>
+    <POI MapID="1062" xpos="-121.094" ypos="60.9373" zpos="-559.273" type="tactical.timed.speedboostmushroom" GUID="OCw6WOaUKEqltHMKIqH3aA=="/>
   </POIs>
 </OverlayData>
