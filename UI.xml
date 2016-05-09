@@ -8,6 +8,7 @@
       <TimerDisplay id="locationaltimer"/>
       <button id="MenuButton"/>
       <MouseHighlight id="mousehighlight"/>
+      <HPGrid id="hpgrid"/>
     </GW2TacO>
   </gui>
   <guitemplate id="markereditor" class="template">

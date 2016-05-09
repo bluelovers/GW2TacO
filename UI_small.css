@@ -17,6 +17,7 @@ GW2TacO
 	height:100%;
 	background:#ff0000;
 	opacity:1.0f;
+	font:menomonia_small;
 }
 
 #compass
@@ -232,4 +233,12 @@ markereditor button
 	width:150px;
 	height:20px;
         padding-bottom:3px;
+}
+
+#hpgrid
+{
+	width:231px;
+	height:12px;
+	left:50%-162px;
+	top:78px;
 }
