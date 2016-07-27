@@ -106,7 +106,8 @@
       <MarkerCategory name="SilverWastes"  iconSize="0.5" heightOffset="0" behavior="4" resetLength="300"/>
       <MarkerCategory name="VerdantBrink" iconFile="data/airshippart.png"/>
       <MarkerCategory name="VerdantBrink_Large" iconFile="data/airshippart-large.png"/>
-      <MarkerCategory name="AuricBasin"/>
+      <MarkerCategory name="AuricBasin" iconFile="data/aurillium.png"/>
+      <MarkerCategory name="AuricBasin_Large" iconFile="data/aurillium.png"/>
       <MarkerCategory name="TangledDepths" iconFile="data/leylinecrystal.png"/>
       <MarkerCategory name="DragonsStand" iconFile="Data\crystallineore.png"/>
     </MarkerCategory>
@@ -134,9 +135,9 @@
       <MarkerCategory name="Counter_4" iconFile="Data/four.png"/>
     </MarkerCategory>
     <MarkerCategory name="GuildMission">
-      <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>      
+      <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>
     </MarkerCategory>
-    
+
   </MarkerCategory>
   <MarkerCategory name="undefined"/>
 </OverlayData>
