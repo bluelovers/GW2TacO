@@ -133,6 +133,8 @@
       <MarkerCategory name="Counter_2" iconFile="Data/two.png"/>
       <MarkerCategory name="Counter_3" iconFile="Data/three.png"/>
       <MarkerCategory name="Counter_4" iconFile="Data/four.png"/>
+      <MarkerCategory name="StackPoint" iconFile="Data/stack.png" iconSize="0.5"/>
+      <MarkerCategory name="SpawnPoint" iconFile="Data/spawn.png" iconSize="0.5"/>
     </MarkerCategory>
     <MarkerCategory name="GuildMission">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>
