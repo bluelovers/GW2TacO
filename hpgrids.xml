@@ -25,4 +25,8 @@
 		<percentage value="60" color="80ffffff"/>
 		<percentage value="80" color="80ffffff"/>
 	</grid>
+	<grid mapid="1156" centerx="-97.98" centery="150.15" centerz="237.25" radius="30.60" name="Keep Construct">
+		<percentage value="33" color="80ffffff"/>
+		<percentage value="66" color="80ffffff"/>
+	</grid>
 </hpgrids>
