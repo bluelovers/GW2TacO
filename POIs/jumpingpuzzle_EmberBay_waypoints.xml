@@ -1,0 +1,273 @@
+<OverlayData>
+<MarkerCategory name="JumpingPuzzle" >
+		<MarkerCategory name="Start" iconFile="Data/jp_marker/start.png"/>
+		<MarkerCategory name="Waypoints" behavior="4" triggerRange="5" resetLength="10">
+			<MarkerCategory name="Counter_1" iconFile="Data/jp_marker/one.png"/>
+			<MarkerCategory name="Counter_2" iconFile="Data/jp_marker/two.png"/>
+			<MarkerCategory name="Counter_3" iconFile="Data/jp_marker/three.png"/>
+			<MarkerCategory name="Counter_4" iconFile="Data/jp_marker/four.png"/>
+			<MarkerCategory name="Counter_5" iconFile="Data/jp_marker/five.png"/>
+			<MarkerCategory name="Counter_6" iconFile="Data/jp_marker/six.png"/>
+			<MarkerCategory name="Counter_7" iconFile="Data/jp_marker/seven.png"/>
+			<MarkerCategory name="Counter_8" iconFile="Data/jp_marker/eight.png"/>
+			<MarkerCategory name="Counter_9" iconFile="Data/jp_marker/nine.png"/>
+			<MarkerCategory name="Counter_10" iconFile="Data/jp_marker/ten.png"/>      
+		</MarkerCategory>
+    </MarkerCategory>
+  <MarkerCategory name="jumpingpuzzle.waypoints">
+    <MarkerCategory name="Waypoints"/>
+  </MarkerCategory>
+  <POIs>
+    <Route Name="Waypoints" BackwardDirection="0">
+	<POI MapID="1175" xpos="-637.487" ypos="137.156" zpos="64.7649" type="jumpingpuzzle.start" GUID="zwtAXzjxqkmFZ3sNkMcsyw=="/>
+	
+    <POI MapID="1175" xpos="-632.785" ypos="137.65" zpos="57.8801" type="jumpingpuzzle.waypoints.counter_1" GUID="S7lrcaLjIk2HDyQx+JvBRw=="/>
+  
+    <POI MapID="1175" xpos="-631.668" ypos="141.606" zpos="42.9835" type="jumpingpuzzle.waypoints.counter_2" GUID="InFk/76Jz0aKzvtIyj/olg=="/>
+  
+    <POI MapID="1175" xpos="-614.265" ypos="148.189" zpos="42.9144" type="jumpingpuzzle.waypoints.counter_3" GUID="6a1cH5vNvEKvxw8Kk5VSlg=="/>
+  
+    <POI MapID="1175" xpos="-591.38" ypos="149.943" zpos="50.2605" type="jumpingpuzzle.waypoints.counter_4" GUID="sWF8hhJXcEOcmkY4Xjvozw=="/>
+  
+    <POI MapID="1175" xpos="-581.318" ypos="146.835" zpos="65.7227" type="jumpingpuzzle.waypoints.counter_5" GUID="gYb9qQRpkkm2fN+4cqvbpA=="/>
+  
+    <POI MapID="1175" xpos="-564.626" ypos="139.19" zpos="75.3095" type="jumpingpuzzle.waypoints.counter_6" GUID="3Wkqhz3VeUGxm1l9P2Knhw=="/>
+  
+    <POI MapID="1175" xpos="-546.229" ypos="135.216" zpos="65.9914" type="jumpingpuzzle.waypoints.counter_7" GUID="3Wne4EbTTUy54NblvSM5og=="/>
+  
+    <POI MapID="1175" xpos="-547.595" ypos="136.596" zpos="49.3323" type="jumpingpuzzle.waypoints.counter_8" GUID="rjP5hbT/IE2iTUIvUa8KuA=="/>
+  
+    <POI MapID="1175" xpos="-562.618" ypos="117.103" zpos="13.5241" type="jumpingpuzzle.waypoints.counter_9" GUID="ZzzTMG+4YEGKzN7gAuTFwg=="/>
+  
+    <POI MapID="1175" xpos="-556.579" ypos="121.031" zpos="1.02815" type="jumpingpuzzle.waypoints.counter_10" GUID="yA7qsk1KFki9myxFtcNSUQ=="/>
+  
+    <POI MapID="1175" xpos="-552.352" ypos="124.768" zpos="-1.39123" type="jumpingpuzzle.waypoints.counter_1" GUID="qGPTngKsqEC8cGq+PD8UGg=="/>
+  
+    <POI MapID="1175" xpos="-546.225" ypos="127.954" zpos="-11.5588" type="jumpingpuzzle.waypoints.counter_2" GUID="+c8jWcL810GYmmoggLvuRg=="/>
+  
+    <POI MapID="1175" xpos="-547.027" ypos="131.191" zpos="-4.5607" type="jumpingpuzzle.waypoints.counter_3" GUID="DC3IWa/wv0qRvt+iU3mgug=="/>
+  
+    <POI MapID="1175" xpos="-544.855" ypos="133.772" zpos="-16.564" type="jumpingpuzzle.waypoints.counter_4" GUID="mwQCnk7YRk+uNXRET62t2A=="/>
+  
+    <POI MapID="1175" xpos="-548.286" ypos="136.904" zpos="-27.8775" type="jumpingpuzzle.waypoints.counter_5" GUID="ZUcA6WDUHkS/irmVACMBWA=="/>
+  
+    <POI MapID="1175" xpos="-548.479" ypos="139.673" zpos="-40.2568" type="jumpingpuzzle.waypoints.counter_6" GUID="G0ra9O/MGkqoEx3kEPnn6Q=="/>
+  
+    <POI MapID="1175" xpos="-553.638" ypos="141.092" zpos="-48.9789" type="jumpingpuzzle.waypoints.counter_7" GUID="XBlD34RI+E+ufLEjtwupug=="/>
+  
+    <POI MapID="1175" xpos="-569.401" ypos="138.25" zpos="-81.6734" type="jumpingpuzzle.waypoints.counter_8" GUID="PrWxpvy0Q0O0vfONCxBWMg=="/>
+  
+    <POI MapID="1175" xpos="-561.428" ypos="138.144" zpos="-90.3399" type="jumpingpuzzle.waypoints.counter_9" GUID="kQnb4VFQqkOdWEZrGWrOWQ=="/>
+  
+    <POI MapID="1175" xpos="-564.632" ypos="138.229" zpos="-101.446" type="jumpingpuzzle.waypoints.counter_10" GUID="vaM4kH+LwE+c3aGdqNdcVw=="/>
+  
+    <POI MapID="1175" xpos="-546.12" ypos="138.618" zpos="-122.77" type="jumpingpuzzle.waypoints.counter_1" GUID="grnvvloMuku/0k4/hWEviw=="/>
+  
+    <POI MapID="1175" xpos="-536.729" ypos="141.107" zpos="-127.537" type="jumpingpuzzle.waypoints.counter_2" GUID="mOn7F1LoTEavXlFdUCGhMQ=="/>
+  
+    <POI MapID="1175" xpos="-537.036" ypos="152.941" zpos="-142.412" type="jumpingpuzzle.waypoints.counter_3" GUID="Px/rHTZXoUmtgfyiJQD2iQ=="/>
+  
+    <POI MapID="1175" xpos="-541.416" ypos="153.039" zpos="-130.743" type="jumpingpuzzle.waypoints.counter_4" GUID="QfS2iIsHU0iBKTE24UBOHQ=="/>
+  
+    <POI MapID="1175" xpos="-538.628" ypos="150.69" zpos="-117.533" type="jumpingpuzzle.waypoints.counter_5" GUID="mRAoEb2Fp0eoolG6M1hpFg=="/>
+  
+    <POI MapID="1175" xpos="-557.961" ypos="166.043" zpos="-115.99" type="jumpingpuzzle.waypoints.counter_6" GUID="TYPDHRKRpEa0p3VB+LUnuA=="/>
+  
+    <POI MapID="1175" xpos="-521.014" ypos="159.143" zpos="-126.763" type="jumpingpuzzle.waypoints.counter_7" GUID="rr30rkYTPkGIwW+ZiMSRKw=="/>
+  
+    <POI MapID="1175" xpos="-522.879" ypos="173.917" zpos="-153.247" type="jumpingpuzzle.waypoints.counter_8" GUID="FOj38IC9nEiZyRU030b5dA=="/>
+  
+    <POI MapID="1175" xpos="-508.414" ypos="173.038" zpos="-149.347" type="jumpingpuzzle.waypoints.counter_9" GUID="6h5qb4EHp0+HjK8aa0vsHw=="/>
+  
+    <POI MapID="1175" xpos="-506.204" ypos="185.659" zpos="-163.784" type="jumpingpuzzle.waypoints.counter_10" GUID="ZKOQjVb5I0y1rQ6whGmGTg=="/>
+  
+    <POI MapID="1175" xpos="-495.863" ypos="191.17" zpos="-168.592" type="jumpingpuzzle.waypoints.counter_1" GUID="vqBJOpFsL0idca+bouWmnw=="/>
+  
+    <POI MapID="1175" xpos="-482.584" ypos="196.841" zpos="-155.884" type="jumpingpuzzle.waypoints.counter_2" GUID="nMaXPNFwtEGOuq35pLDEnw=="/>
+  
+    <POI MapID="1175" xpos="-480.631" ypos="190.755" zpos="-126.705" type="jumpingpuzzle.waypoints.counter_3" GUID="dDsXC2OKb0qRLsnTWJveAg=="/>
+  
+    <POI MapID="1175" xpos="-476.2" ypos="182.051" zpos="-96.9959" type="jumpingpuzzle.waypoints.counter_4" GUID="7eeIDDKVIEG1XEWn3n926Q=="/>
+  
+    <POI MapID="1175" xpos="-463.027" ypos="177.265" zpos="-81.2667" type="jumpingpuzzle.waypoints.counter_5" GUID="TMmzgYJAU0qFUICO8cmwkQ=="/>
+  
+    <POI MapID="1175" xpos="-453.086" ypos="180.397" zpos="-80.0522" type="jumpingpuzzle.waypoints.counter_6" GUID="AkcVgVWjAUKjvM3iMDjEBg=="/>
+  
+    <POI MapID="1175" xpos="-461.871" ypos="182.983" zpos="-71.3041" type="jumpingpuzzle.waypoints.counter_7" GUID="O/3cssJMw02yKdoD0Ktbug=="/>
+  
+    <POI MapID="1175" xpos="-464.641" ypos="188.18" zpos="-60.3566" type="jumpingpuzzle.waypoints.counter_8" GUID="jVaKwEUEHEeTY5s2Ue7t1A=="/>
+  
+    <POI MapID="1175" xpos="-456.517" ypos="195.952" zpos="-65.7887" type="jumpingpuzzle.waypoints.counter_9" GUID="iF0BiM2etEWQiYzcXPqhuw=="/>
+  
+    <POI MapID="1175" xpos="-470.515" ypos="194.792" zpos="-51.2876" type="jumpingpuzzle.waypoints.counter_10" GUID="Afz26X5lR0GUF92Ymt0Luw=="/>
+  
+    <POI MapID="1175" xpos="-477.467" ypos="193.173" zpos="-60.6764" type="jumpingpuzzle.waypoints.counter_1" GUID="1uiV72IGlkGVDxmJq2O02w=="/>
+  
+    <POI MapID="1175" xpos="-492.988" ypos="188.134" zpos="-58.9866" type="jumpingpuzzle.waypoints.counter_2" GUID="A4YaEZ8X0kuiMc/tOlDWOw=="/>
+  
+    <POI MapID="1175" xpos="-507.6" ypos="186.403" zpos="-50.915" type="jumpingpuzzle.waypoints.counter_3" GUID="ILT6ON21OkmpTikPPVMj8g=="/>
+  
+    <POI MapID="1175" xpos="-494.869" ypos="188.124" zpos="-41.8151" type="jumpingpuzzle.waypoints.counter_4" GUID="qvoIDGqHjEm+6R1ZjnNgrA=="/>
+  
+    <POI MapID="1175" xpos="-485.377" ypos="194.98" zpos="-39.7203" type="jumpingpuzzle.waypoints.counter_5" GUID="R2dlUIjbv0aVOoNVC8h9cg=="/>
+  
+    <POI MapID="1175" xpos="-500.468" ypos="189.51" zpos="-32.5154" type="jumpingpuzzle.waypoints.counter_6" GUID="47REqVzAZkys687LNpJy/A=="/>
+  
+    <POI MapID="1175" xpos="-513.56" ypos="187.089" zpos="-29.0469" type="jumpingpuzzle.waypoints.counter_7" GUID="r5Ig293vVkCcY/xanBO1AQ=="/>
+  
+    <POI MapID="1175" xpos="-513.63" ypos="194.868" zpos="-22.127" type="jumpingpuzzle.waypoints.counter_8" GUID="bV72Lm/LvkC7TPXz8lKZog=="/>
+  
+    <POI MapID="1175" xpos="-529.528" ypos="202.382" zpos="-26.1756" type="jumpingpuzzle.waypoints.counter_9" GUID="a7dtIorW8EeWGabM7FO/HA=="/>
+  
+    <POI MapID="1175" xpos="-541.075" ypos="205.649" zpos="-37.096" type="jumpingpuzzle.waypoints.counter_10" GUID="S9jJdbXvj022TActXnZcVw=="/>
+  
+    <POI MapID="1175" xpos="-529.325" ypos="207.804" zpos="-41.6139" type="jumpingpuzzle.waypoints.counter_1" GUID="mJ7wqJIuLESO+DhHIe+geg=="/>
+  
+    <POI MapID="1175" xpos="-524.526" ypos="205.003" zpos="-61.6234" type="jumpingpuzzle.waypoints.counter_2" GUID="gUwaNkyrQkmiU8lznI/tFQ=="/>
+  
+    <POI MapID="1175" xpos="-518.69" ypos="197.558" zpos="-86.7089" type="jumpingpuzzle.waypoints.counter_3" GUID="z7ACmCEii0emjKpXBKpQCQ=="/>
+  
+    <POI MapID="1175" xpos="-511.393" ypos="189.416" zpos="-116.777" type="jumpingpuzzle.waypoints.counter_4" GUID="aH8Ttnm/0kKyTw0cZAYRYw=="/>
+  
+    <POI MapID="1175" xpos="-511.082" ypos="197.268" zpos="-132.703" type="jumpingpuzzle.waypoints.counter_5" GUID="XfVlm7rhOEuz795h0xopOw=="/>
+  
+    <POI MapID="1175" xpos="-514.138" ypos="207.244" zpos="-152.855" type="jumpingpuzzle.waypoints.counter_6" GUID="7BpCMdOILkCa4QPFZum4vw=="/>
+  
+    <POI MapID="1175" xpos="-504.149" ypos="205.167" zpos="-165.317" type="jumpingpuzzle.waypoints.counter_7" GUID="pcTymRbAGkaTsxmMOa1xEg=="/>
+  
+    <POI MapID="1175" xpos="-509.593" ypos="204.511" zpos="-174.396" type="jumpingpuzzle.waypoints.counter_8" GUID="rKKW2AIxFk+ozqwnJb37Dg=="/>
+  
+    <POI MapID="1175" xpos="-507.175" ypos="210.509" zpos="-184.359" type="jumpingpuzzle.waypoints.counter_9" GUID="EPxrh6xl70SPl0hFca0kTw=="/>
+  
+    <POI MapID="1175" xpos="-497.43" ypos="214.9" zpos="-198.321" type="jumpingpuzzle.waypoints.counter_10" GUID="Gor2XcDm4UKvSHgX/Eva0g=="/>
+  
+    <POI MapID="1175" xpos="-510.906" ypos="215.892" zpos="-197.543" type="jumpingpuzzle.waypoints.counter_1" GUID="LUq/Vw70Y0mcKC0MOCJEhQ=="/>
+  
+    <POI MapID="1175" xpos="-504.174" ypos="220.034" zpos="-179.724" type="jumpingpuzzle.waypoints.counter_2" GUID="+qzoNME72E6HVQZs0a/lhQ=="/>
+  
+    <POI MapID="1175" xpos="-511.688" ypos="221.98" zpos="-164.025" type="jumpingpuzzle.waypoints.counter_3" GUID="yHWCjlcNyUaHlKcDJqIhqA=="/>
+  
+    <POI MapID="1175" xpos="-497.695" ypos="215.645" zpos="-143.147" type="jumpingpuzzle.waypoints.counter_4" GUID="jwMji8uW7k+a5e8jFkESGg=="/>
+  
+    <POI MapID="1175" xpos="-476.147" ypos="206.138" zpos="-118.358" type="jumpingpuzzle.waypoints.counter_5" GUID="oKCBaVcPrkuvZh7x5jrP3g=="/>
+  
+    <POI MapID="1175" xpos="-469.093" ypos="201.463" zpos="-110.069" type="jumpingpuzzle.waypoints.counter_6" GUID="3D7cxP0Eska/gPYb1KzjVQ=="/>
+  
+    <POI MapID="1175" xpos="-477.089" ypos="206.486" zpos="-107.666" type="jumpingpuzzle.waypoints.counter_7" GUID="HxTnwiNMzUOi+moo25Ddmw=="/>
+  
+    <POI MapID="1175" xpos="-454.31" ypos="199.583" zpos="-96.251" type="jumpingpuzzle.waypoints.counter_8" GUID="/OPE/TvfckGqESIWCNHu9Q=="/>
+  
+    <POI MapID="1175" xpos="-453.941" ypos="202.641" zpos="-88.7868" type="jumpingpuzzle.waypoints.counter_9" GUID="d94EYQZq4Eygl8QuUcBHyQ=="/>
+  
+    <POI MapID="1175" xpos="-465.371" ypos="206.682" zpos="-93.0078" type="jumpingpuzzle.waypoints.counter_10" GUID="nrj5ceWLDkqHPm+hIKITMQ=="/>
+  
+    <POI MapID="1175" xpos="-471.125" ypos="207.184" zpos="-88.0736" type="jumpingpuzzle.waypoints.counter_1" GUID="33ODxpconEWz5rZuQtD46Q=="/>
+  
+    <POI MapID="1175" xpos="-479.493" ypos="202.142" zpos="-77.2276" type="jumpingpuzzle.waypoints.counter_2" GUID="ctBTsWCbaEGO5QbAm2+Q8g=="/>
+  
+    <POI MapID="1175" xpos="-474.762" ypos="211.228" zpos="-68.2443" type="jumpingpuzzle.waypoints.counter_3" GUID="PLwcnBNbOECtvIvazJE6pQ=="/>
+  
+    <POI MapID="1175" xpos="-482.263" ypos="210.074" zpos="-56.0655" type="jumpingpuzzle.waypoints.counter_4" GUID="4i8IxbgZ8UK50EBv+Ca4Ug=="/>
+  
+    <POI MapID="1175" xpos="-485.291" ypos="211.418" zpos="-50.2693" type="jumpingpuzzle.waypoints.counter_5" GUID="MF2MPWPJnE6NTV9vaWV4Og=="/>
+  
+    <POI MapID="1175" xpos="-468.716" ypos="225.398" zpos="-41.7723" type="jumpingpuzzle.waypoints.counter_6" GUID="OcpcmkhAH0S2THKphrSy+A=="/>
+  
+    <POI MapID="1175" xpos="-453.053" ypos="227.204" zpos="-43.5764" type="jumpingpuzzle.waypoints.counter_7" GUID="eI3n9cLji0ygiAOLiyyv+g=="/>
+  
+    <POI MapID="1175" xpos="-453.728" ypos="232.946" zpos="-49.1472" type="jumpingpuzzle.waypoints.counter_8" GUID="8Aj35JhX4kqBnV8OW/3SCA=="/>
+  
+    <POI MapID="1175" xpos="-462.196" ypos="229.403" zpos="-64.7344" type="jumpingpuzzle.waypoints.counter_9" GUID="X4SBrVQE+UyzY+WwxPp1Dw=="/>
+  
+    <POI MapID="1175" xpos="-445.153" ypos="240.247" zpos="-69.5918" type="jumpingpuzzle.waypoints.counter_10" GUID="CLSZI4T9t0iy69RI4qQCLQ=="/>
+  
+    <POI MapID="1175" xpos="-432.412" ypos="241.223" zpos="-62.2705" type="jumpingpuzzle.waypoints.counter_1" GUID="86wK+tVHOE2MiQoMnDOlwg=="/>
+  
+    <POI MapID="1175" xpos="-440.352" ypos="248.574" zpos="-47.9775" type="jumpingpuzzle.waypoints.counter_2" GUID="5twoCkUm90qmL5mzB+ADCQ=="/>
+  
+    <POI MapID="1175" xpos="-443.986" ypos="254.548" zpos="-51.2356" type="jumpingpuzzle.waypoints.counter_3" GUID="2mprVca9J020ni+zBGCQ0A=="/>
+  
+    <POI MapID="1175" xpos="-453.714" ypos="262.482" zpos="-55.5491" type="jumpingpuzzle.waypoints.counter_4" GUID="3o0bKWKHRUmQMwoXTm3Fzg=="/>
+  
+    <POI MapID="1175" xpos="-462.862" ypos="259.759" zpos="-71.5354" type="jumpingpuzzle.waypoints.counter_5" GUID="Y4VkSP6WvEqlE/ulz5kYXQ=="/>
+  
+    <POI MapID="1175" xpos="-465.165" ypos="255.406" zpos="-86.1379" type="jumpingpuzzle.waypoints.counter_6" GUID="qhhCjzrLcUeUtzSrC5CGTg=="/>
+  
+    <POI MapID="1175" xpos="-455.579" ypos="250.71" zpos="-98.7395" type="jumpingpuzzle.waypoints.counter_7" GUID="9sELYQc01UOTVSnyOZEm9w=="/>
+  
+    <POI MapID="1175" xpos="-437.525" ypos="254.373" zpos="-99.4586" type="jumpingpuzzle.waypoints.counter_8" GUID="sFB7NhePUUCvaa4DGLJUnw=="/>
+  
+    <POI MapID="1175" xpos="-426.269" ypos="255.323" zpos="-89.165" type="jumpingpuzzle.waypoints.counter_9" GUID="Ww/qj7pUREenxwCEO4zJJQ=="/>
+  
+    <POI MapID="1175" xpos="-436.034" ypos="256.637" zpos="-87.0963" type="jumpingpuzzle.waypoints.counter_10" GUID="+FP7rDrAe0OEYIZKuN6yaQ=="/>
+  
+    <POI MapID="1175" xpos="-438.088" ypos="258.889" zpos="-86.6214" type="jumpingpuzzle.waypoints.counter_1" GUID="Fy5njcyA5kWxSInDkgM1kQ=="/>
+  
+    <POI MapID="1175" xpos="-430.079" ypos="263.597" zpos="-86.0907" type="jumpingpuzzle.waypoints.counter_2" GUID="US5qpiEDuEeoNcQv5lx1lg=="/>
+  
+    <POI MapID="1175" xpos="-445.124" ypos="261.25" zpos="-85.289" type="jumpingpuzzle.waypoints.counter_3" GUID="2vQENAwPe02mH9Vrbzclxw=="/>
+  
+    <POI MapID="1175" xpos="-454.84" ypos="266.375" zpos="-81.6107" type="jumpingpuzzle.waypoints.counter_4" GUID="oHcU09hUok+mB3pUzyN9yw=="/>
+  
+    <POI MapID="1175" xpos="-435.143" ypos="275.097" zpos="-81.587" type="jumpingpuzzle.waypoints.counter_5" GUID="1NsvXERroUmhX6SIY3Qy6g=="/>
+  
+    <POI MapID="1175" xpos="-413.802" ypos="270.425" zpos="-93.001" type="jumpingpuzzle.waypoints.counter_6" GUID="rGSCWDEIb0qVtKMH8jfNiA=="/>
+  
+    <POI MapID="1175" xpos="-410.928" ypos="273.282" zpos="-101.116" type="jumpingpuzzle.waypoints.counter_7" GUID="IuF1q7KcrkKuh3zp2DS0bA=="/>
+  
+    <POI MapID="1175" xpos="-415.163" ypos="273.985" zpos="-108.887" type="jumpingpuzzle.waypoints.counter_8" GUID="v37PKmPJf0mNcyLYLsv8Yw=="/>
+  
+    <POI MapID="1175" xpos="-423.802" ypos="274.319" zpos="-121.12" type="jumpingpuzzle.waypoints.counter_9" GUID="ATjFFFkRhUS3QCAM03OtpQ=="/>
+  
+    <POI MapID="1175" xpos="-419.679" ypos="278.997" zpos="-111.562" type="jumpingpuzzle.waypoints.counter_10" GUID="bYeXs8576U22AQbryT5+Fg=="/>
+  
+    <POI MapID="1175" xpos="-418.902" ypos="276.954" zpos="-97.8316" type="jumpingpuzzle.waypoints.counter_1" GUID="6dGuAY9gTkGJb+Zr2pldYA=="/>
+  
+    <POI MapID="1175" xpos="-415.982" ypos="284.394" zpos="-105.765" type="jumpingpuzzle.waypoints.counter_2" GUID="tohcHsVJw0WUg0lD7sWOBg=="/>
+  
+    <POI MapID="1175" xpos="-425.156" ypos="285.412" zpos="-113.899" type="jumpingpuzzle.waypoints.counter_3" GUID="a7zu7G1HFEC9u6QePlR83Q=="/>
+  
+    <POI MapID="1175" xpos="-429.637" ypos="280.143" zpos="-131.236" type="jumpingpuzzle.waypoints.counter_4" GUID="YfOtOJER4EyZv/ZbvoHqjg=="/>
+  
+    <POI MapID="1175" xpos="-425.361" ypos="277.461" zpos="-140.947" type="jumpingpuzzle.waypoints.counter_5" GUID="B0Qjvcx0c0idd63ImmfvUQ=="/>
+  
+    <POI MapID="1175" xpos="-414.442" ypos="290.499" zpos="-130.677" type="jumpingpuzzle.waypoints.counter_6" GUID="K4FXV9cbyEGUSPcVWCkkXg=="/>
+  
+    <POI MapID="1175" xpos="-413.923" ypos="300.441" zpos="-125.848" type="jumpingpuzzle.waypoints.counter_7" GUID="PZYkNbuCP0SYZA944uWLLA=="/>
+  
+    <POI MapID="1175" xpos="-428.777" ypos="297.881" zpos="-136.958" type="jumpingpuzzle.waypoints.counter_8" GUID="K0Xl3GnAYk65kzS1Xqaq+w=="/>
+  
+    <POI MapID="1175" xpos="-455.959" ypos="288.144" zpos="-156.838" type="jumpingpuzzle.waypoints.counter_9" GUID="d1FB5I3AxkGjyGx01dfPTg=="/>
+  
+    <POI MapID="1175" xpos="-484.973" ypos="277.72" zpos="-178.248" type="jumpingpuzzle.waypoints.counter_10" GUID="To/b61nLbUCsXAEzdplIXQ=="/>
+  
+    <POI MapID="1175" xpos="-508.74" ypos="269.473" zpos="-194.013" type="jumpingpuzzle.waypoints.counter_1" GUID="mdI5a3MZcUaeQeDyLmeS0Q=="/>
+  
+    <POI MapID="1175" xpos="-528.839" ypos="261.34" zpos="-208.633" type="jumpingpuzzle.waypoints.counter_2" GUID="DmXKELxAAEShXezgXgvy/A=="/>
+  
+    <POI MapID="1175" xpos="-535.605" ypos="256.575" zpos="-214.593" type="jumpingpuzzle.waypoints.counter_3" GUID="7n33V2t3TUeixRGVWw1a5Q=="/>
+  
+    <POI MapID="1175" xpos="-533.502" ypos="258.494" zpos="-216.219" type="jumpingpuzzle.waypoints.counter_4" GUID="Zr3ULKsO2kS6yCTV0WXW5g=="/>
+  
+    <POI MapID="1175" xpos="-537.8" ypos="259.219" zpos="-216.016" type="jumpingpuzzle.waypoints.counter_5" GUID="PzrQpwiEL06D2DbpRMv0pg=="/>
+  
+    <POI MapID="1175" xpos="-539.786" ypos="261.335" zpos="-216.273" type="jumpingpuzzle.waypoints.counter_6" GUID="lb30lDjeRkqZBY9s454Obg=="/>
+  
+    <POI MapID="1175" xpos="-537.792" ypos="262.812" zpos="-219.005" type="jumpingpuzzle.waypoints.counter_7" GUID="OuGFQ2r/Ykm24ueXCwUryQ=="/>
+  
+    <POI MapID="1175" xpos="-535.741" ypos="266.688" zpos="-217.112" type="jumpingpuzzle.waypoints.counter_8" GUID="TGjSfkPPok6al+jIG5gSwA=="/>
+  
+    <POI MapID="1175" xpos="-537.988" ypos="268.882" zpos="-229.523" type="jumpingpuzzle.waypoints.counter_9" GUID="XOu+ervmV0aAoWZsxn+hYg=="/>
+  
+    <POI MapID="1175" xpos="-539.492" ypos="275.077" zpos="-243.876" type="jumpingpuzzle.waypoints.counter_10" GUID="kIgD76NH5EWc0r/pmIlcUw=="/>
+  
+    <POI MapID="1175" xpos="-535.479" ypos="277.544" zpos="-237.446" type="jumpingpuzzle.waypoints.counter_1" GUID="RRWjCJtoiEypZf3D/MCqyg=="/>
+  
+    <POI MapID="1175" xpos="-532.202" ypos="283.187" zpos="-226.064" type="jumpingpuzzle.waypoints.counter_2" GUID="Ntt+D1HnP0qE26fIh2wkaQ=="/>
+  
+    <POI MapID="1175" xpos="-531.213" ypos="283.979" zpos="-218.863" type="jumpingpuzzle.waypoints.counter_3" GUID="YmgpG4EQ/UCBiBqq+FxiDQ=="/>
+  
+    <POI MapID="1175" xpos="-538.142" ypos="295.134" zpos="-239.756" type="jumpingpuzzle.waypoints.counter_4" GUID="sHo2DugjpkyNBbVF9uGB5w=="/>
+    </Route>
+  </POIs>
+</OverlayData>
