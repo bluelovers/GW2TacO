@@ -1,6 +1,6 @@
 *
 {
-	font:trebuchet_larger;
+	font:menomnia_text_larger;
 }
 
 GW2TacO 
@@ -43,6 +43,14 @@ GW2TacO
 	height:100%;
 	opacity:1.0f;
 	font:menomonia_larger;
+}
+
+#gw2dialog
+{
+	width:100%;
+	height:100%;
+	opacity:1.0f;
+	font:dialog_larger;
 }
 
 #maptimer
