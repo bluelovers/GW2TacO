@@ -1,4 +1,4 @@
-<OverlayData>
+<OverlayData fadeFar="16800" fadeNear="8400">
   <MarkerCategory name="ResourceNode" fadeFar="16800" fadeNear="8400" behavior="1">
     <MarkerCategory name="Wood" iconFile="Data/Wood.png">
       <MarkerCategory name="Green"/>
@@ -7,6 +7,7 @@
       <MarkerCategory name="Hard"/>
       <MarkerCategory name="Elder"/>
       <MarkerCategory name="Ancient" iconFile="Data/Wood-Ancient.png" fadeFar="-1" fadeNear="-1" behavior="0"/>
+      <MarkerCategory name="Petrified" iconFile="Data/Wood-Petrified.png" behavior="0" iconSize="0.5"/>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Ore" iconFile="Data/Ore.png">
@@ -19,6 +20,7 @@
         <MarkerCategory name="Mithril"/>
         <MarkerCategory name="Orichalcum" iconFile="Data/Ore-Orichalcum.png" fadeFar="-1" fadeNear="-1" behavior="0"/>
         <MarkerCategory name="QuartzCrystal" fadeFar="-1" fadeNear="-1" behavior="0"/>
+        <MarkerCategory name="Bloodstone Crystals" iconFile="Data/Ore-BloodstoneCrystal.png"/>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
       <MarkerCategory name="Rich" iconFile="Data/Ore-Rich.png" fadeFar="-1" fadeNear="-1" behavior="0">
@@ -30,6 +32,7 @@
         <MarkerCategory name="Mithril"/>
         <MarkerCategory name="Orichalcum"/>
         <MarkerCategory name="QuartzCrystal" fadeFar="-1" fadeNear="-1" behavior="0"/>
+        <MarkerCategory name="Bloodstone Crystals" iconFile="Data/Ore-BloodstoneCrystal.png"/>
         <MarkerCategory name="undefined"/>
       </MarkerCategory>
     </MarkerCategory>
@@ -94,11 +97,17 @@
         <MarkerCategory name="Omnomberries"/>
         <MarkerCategory name="OrrianTruffle"/>
         <MarkerCategory name="SawgillMushrooms"/>
-        <MarkerCategory name="Seaweed"/>
+        <MarkerCategory name="Seaweed" iconFile="Data/Plant/Seaweed.png"/>
         <MarkerCategory name="SnowTruffle"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="other">
+		<MarkerCategory name="Leather" iconFile="Data/Leather.png" iconSize="0.5"/>
+		<MarkerCategory name="Cloth" iconFile="Data/Cloth.png" iconSize="0.5"/>
+		<MarkerCategory name="undefined"/>
+    </MarkerCategory>
+    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="MapSpecific">
@@ -110,19 +119,25 @@
       <MarkerCategory name="AuricBasin_Large" iconFile="data/aurillium.png"/>
       <MarkerCategory name="TangledDepths" iconFile="data/leylinecrystal.png"/>
       <MarkerCategory name="DragonsStand" iconFile="Data\crystallineore.png"/>
+      <MarkerCategory name="Ember Bay"/>
+      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Permanent"/>
+    <MarkerCategory name="Meta" iconFile="Data/Chest-Meta.png" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30"/>
+    <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Collectible" iconFile="Data/Achievement.png">
     <MarkerCategory name="Raid" iconFile="Data/raid1_achievements.png" behavior="3"/>
+    <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Other" iconFile="Data/bigmarker.png">
+  <MarkerCategory name="Other" iconFile="Data/bigmarker.png" fadeFar="16800" fadeNear="8400">
 	<MarkerCategory name="Karma" iconFile="Data/Karma.png" heightOffset="5"/>
 	<MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Tactical">
+  <MarkerCategory name="Tactical" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Timed">
       <MarkerCategory name="SpeedBoostMushroom" iconFile="Data/empty.png" triggerRange="1.7" resetLength="20" behavior="4" hasCountdown="1"/>
+      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Raid">
       <MarkerCategory name="Direction_N" iconFile="Data/north.png"/>
@@ -135,11 +150,39 @@
       <MarkerCategory name="Counter_4" iconFile="Data/four.png"/>
       <MarkerCategory name="StackPoint" iconFile="Data/stack.png" iconSize="0.5"/>
       <MarkerCategory name="SpawnPoint" iconFile="Data/spawn.png" iconSize="0.5"/>
+      <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="GuildMission">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>
+      <MarkerCategory name="undefined"/>
     </MarkerCategory>
 
   </MarkerCategory>
-  <MarkerCategory name="undefined"/>
+  <MarkerCategory name="undefined" fadeFar="16800" fadeNear="8400"/>
+  <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400">
+	<MarkerCategory name="Collectible" iconFile="Data/Achievement.png">
+		<MarkerCategory name="Mursaat Token"/>
+		<MarkerCategory name="Tablets of the Unseen"/>
+		<MarkerCategory name="Cami’s Final Voyage"/>
+		<MarkerCategory name="Hungry Hal">
+			<MarkerCategory name="npc"/>
+			<MarkerCategory name="undefined"/>
+		</MarkerCategory>
+		<MarkerCategory name="Ship Debris"/>
+		<MarkerCategory name="undefined"/>
+	</MarkerCategory>
+	<MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Jumping Puzzle" iconFile="Data/Jumping_Puzzles.png" fadeFar="16800" fadeNear="8400">
+	<MarkerCategory name="Chalice of Tears">
+		<MarkerCategory name="Checkpoints"/>
+		<MarkerCategory name="way"/>
+		<MarkerCategory name="Checkpoints"/>
+		<MarkerCategory name="undefined" iconFile="Data/bigmarker"/>
+	</MarkerCategory>
+	<MarkerCategory name="way"/>
+	<MarkerCategory name="temp"/>
+	<MarkerCategory name="Checkpoints"/>
+	<MarkerCategory name="undefined"/>
+  </MarkerCategory>
 </OverlayData>
