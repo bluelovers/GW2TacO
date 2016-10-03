@@ -42,4 +42,46 @@
 		<timeevent text="POISON" timestamp="575" countdown="5" onscreentime="0"/>
 		<timeevent text="ENRAGE" timestamp="600" countdown="25" onscreentime="10"/>
 	</areatriggeredtimer>
+	<areatriggeredtimer mapid="1156" length="600" resetpointx="-31.5387" resetpointy="521.007" resetpointz="5.07386" startdelay="2">
+		<phase enterspherex="-77.0612" enterspherey="512.354" enterspherez="-80.4387" entersphererad="30" nextphasespherex="-97.7282" nextphasespherey="512.745" nextphasespherez="-134.54" nextphasesphererad="18">
+			<timeevent timestamp="">
+				<polypoint xpos="-90.904" ypos="513.076" zpos="-104.617"/>
+				<polypoint xpos="-63.1111" ypos="512.737" zpos="-57.161"/>
+				<polypoint xpos="-53.2498" ypos="512.793" zpos="-67.0011"/>
+				<polypoint xpos="-49.9294" ypos="512.678" zpos="-80.6054"/>
+				<polypoint xpos="-53.6036" ypos="512.654" zpos="-93.9985"/>
+				<polypoint xpos="-63.4743" ypos="512.659" zpos="-103.856"/>
+				<polypoint xpos="-76.9918" ypos="512.726" zpos="-107.594"/>
+			</timeevent>
+			<timeevent timestamp="">
+				<polypoint xpos="-53.6036" ypos="512.654" zpos="-93.9985"/>
+				<polypoint xpos="-100.663" ypos="512.93" zpos="-66.5217"/>
+				<polypoint xpos="-90.8823" ypos="512.971" zpos="-56.6332"/>
+				<polypoint xpos="-76.8888" ypos="512.749" zpos="-53.3311"/>
+				<polypoint xpos="-63.1111" ypos="512.737" zpos="-57.161"/>
+				<polypoint xpos="-53.2498" ypos="512.793" zpos="-67.0011"/>
+				<polypoint xpos="-49.9294" ypos="512.678" zpos="-80.6054"/>
+			</timeevent>
+			<timeevent timestamp="">
+				<polypoint xpos="-90.904" ypos="513.076" zpos="-104.617"/>
+				<polypoint xpos="-101.141" ypos="513.056" zpos="-94.188"/>
+				<polypoint xpos="-104.464" ypos="512.924" zpos="-80.3902"/>
+				<polypoint xpos="-100.663" ypos="512.93" zpos="-66.5217"/>
+				<polypoint xpos="-90.8823" ypos="512.971" zpos="-56.6332"/>
+				<polypoint xpos="-76.8888" ypos="512.749" zpos="-53.3311"/>
+				<polypoint xpos="-63.1111" ypos="512.737" zpos="-57.161"/>
+			</timeevent>
+			<timeevent timestamp="">
+				<polypoint xpos="-100.663" ypos="512.93" zpos="-66.5217"/>
+				<polypoint xpos="-90.8823" ypos="512.971" zpos="-56.6332"/>
+				<polypoint xpos="-76.8888" ypos="512.749" zpos="-53.3311"/>
+				<polypoint xpos="-63.1111" ypos="512.737" zpos="-57.161"/>
+				<polypoint xpos="-53.2498" ypos="512.793" zpos="-67.0011"/>
+				<polypoint xpos="-49.9294" ypos="512.678" zpos="-80.6054"/>
+				<polypoint xpos="-53.6036" ypos="512.654" zpos="-93.9985"/>
+			</timeevent>
+		</phase>
+		<phase enterspherex="-77.0612" enterspherey="512.354" enterspherez="-80.4387" entersphererad="30" >
+		</phase>
+	</areatriggeredtimer>
 </timers>
