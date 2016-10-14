@@ -20,5 +20,10 @@
       <button id="changemarkertype" text="Change Marker Type"/>
     </box>
   </guitemplate>
+  <guitemplate id="notepad" class="template">
+    <box id="notepadbox">
+      <textbox id="notepad" text=""/>
+    </box>
+  </guitemplate>
 
 </guidescriptor>
