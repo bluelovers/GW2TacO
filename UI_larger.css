@@ -250,3 +250,31 @@ markereditor button
 	left:50%-219px;
 	top:106px;
 }
+
+#notepadbox
+{
+	margin:0px;
+}
+
+notepad
+{
+	margin:0px;
+}
+
+notepad textbox
+{
+	background:rgba(0,0,0,0.7);
+	margin:1px;
+	padding:1px;
+	border:1px;
+}
+
+notepad textbox:selection:active
+{
+	background:rgba(64,64,64,1);
+}
+
+notepad textbox:selection:hover
+{
+	background:rgba(192,192,192,1);
+}
