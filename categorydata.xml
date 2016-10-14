@@ -97,7 +97,7 @@
         <MarkerCategory name="Omnomberries"/>
         <MarkerCategory name="OrrianTruffle"/>
         <MarkerCategory name="SawgillMushrooms"/>
-        <MarkerCategory name="Seaweed" iconFile="Data/Plant/Seaweed.png"/>
+        <MarkerCategory name="Seaweed" iconFile="Data/Plant/Seaweed.png" iconSize="0.5"/>
         <MarkerCategory name="SnowTruffle"/>
       </MarkerCategory>
       <MarkerCategory name="undefined"/>
@@ -110,7 +110,7 @@
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
-    <MarkerCategory name="MapSpecific">
+    <MarkerCategory name="MapSpecific" iconFile="Data/Chest-Lock.png" heightOffset="2">
       <MarkerCategory name="DryTop"/>
       <MarkerCategory name="SilverWastes"  iconSize="0.5" heightOffset="0" behavior="4" resetLength="300"/>
       <MarkerCategory name="VerdantBrink" iconFile="data/airshippart.png"/>
@@ -123,10 +123,10 @@
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Permanent"/>
-    <MarkerCategory name="Meta" iconFile="Data/Chest-Meta.png" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30"/>
+    <MarkerCategory name="Meta" iconFile="Data/Chest-Meta.png" fadeFar="8400" fadeNear="2100" behavior="4" resetLength="30" heightOffset="3"/>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
-  <MarkerCategory name="Collectible" iconFile="Data/Achievement.png">
+  <MarkerCategory name="Collectible" iconFile="Data/Achievement.png" fadeFar="16800" fadeNear="8400">
     <MarkerCategory name="Raid" iconFile="Data/raid1_achievements.png" behavior="3"/>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
@@ -158,7 +158,7 @@
     </MarkerCategory>
 
   </MarkerCategory>
-  <MarkerCategory name="undefined" fadeFar="16800" fadeNear="8400"/>
+  <MarkerCategory name="undefined" fadeFar="8400" fadeNear="2100"/>
   <MarkerCategory name="temp" fadeFar="16800" fadeNear="8400">
 	<MarkerCategory name="Collectible" iconFile="Data/Achievement.png">
 		<MarkerCategory name="Mursaat Token"/>
@@ -183,6 +183,43 @@
 	<MarkerCategory name="way"/>
 	<MarkerCategory name="temp"/>
 	<MarkerCategory name="Checkpoints"/>
+	<MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="achievements" iconFile="Data/Achievement.png" fadeFar="8400" fadeNear="2100" heightOffset="2">
+	<MarkerCategory name="Current Event" iconFile="Data/Current_Events.png">
+		<MarkerCategory name="rift"/>
+		<MarkerCategory name="Sad Anomaly"/>
+		<MarkerCategory name="bloodstone-crazed creatures"/>
+		<MarkerCategory name="Bloodstone Harvest">
+			<MarkerCategory name="Bloodstone Creatures"/>
+			<MarkerCategory name="Bloodstone Sliver"/>
+			<MarkerCategory name="undefined"/>
+		</MarkerCategory>
+		<MarkerCategory name="undefined"/>
+	</MarkerCategory>
+	<MarkerCategory name="Diving Goggles"/>
+	<MarkerCategory name="Legendary Backpacks">
+		<MarkerCategory name="Ad Infinitum III: Unbound"/>
+		<MarkerCategory name="undefined"/>
+	</MarkerCategory>
+	<MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Event" fadeFar="5400" fadeNear="1200">
+	<MarkerCategory name="Skritt Loots" heightOffset="2">
+		<MarkerCategory name="trigger" heightOffset="4"/>
+		<MarkerCategory name="spawn" iconFile="Data/Event-Spawn1.png" heightOffset="0"/>
+		<MarkerCategory name="loots" iconFile="Data/Bags.png"/>
+		<MarkerCategory name="undefined"/>
+	</MarkerCategory>
+	<MarkerCategory name="trigger" heightOffset="4"/>
+	<MarkerCategory name="spawn" heightOffset="0" iconFile="Data/Event-Spawn1.png">
+		<MarkerCategory name="1" iconFile="Data/Event-Spawn1.png"/>
+		<MarkerCategory name="2" iconFile="Data/Event-Spawn2.png"/>
+		<MarkerCategory name="3" iconFile="Data/Event-Spawn3.png"/>
+		<MarkerCategory name="4" iconFile="Data/Event-Spawn4.png"/>
+		<MarkerCategory name="undefined"/>
+	</MarkerCategory>
+	<MarkerCategory name="loots" iconFile="Data/Bags.png" heightOffset="2"/>
 	<MarkerCategory name="undefined"/>
   </MarkerCategory>
 </OverlayData>
