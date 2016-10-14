@@ -2878,7 +2878,7 @@
   
     <POI MapID="28" xpos="464.445" ypos="72.7852" zpos="276.842" type="resourcenode.plant.copper.onions" GUID="nMM33JKa10eDvlFuHhwG0A=="/>
   
-    <POI MapID="0" xpos="0" ypos="0" zpos="0" type="resourcenode.wood.undefined" GUID="FUtdBg2l5kqWegbzfulLTA=="/>
+    <POI MapID="0" xpos="0" ypos="0" zpos="0" type="resourcenode.wood.seasoned" GUID="FUtdBg2l5kqWegbzfulLTA=="/>
   
     <POI MapID="28" xpos="387.288" ypos="70.794" zpos="245.687" type="resourcenode.ore.normal.copper" GUID="5pGQZvt5rkmrNRZPD+3/BQ=="/>
   
@@ -3445,8 +3445,6 @@
     <POI MapID="25" xpos="-416.265" ypos="-12.252" zpos="411.65" type="resourcenode.ore.normal.platinum" GUID="U9N6kkNb+EaymjUyHEbp2w=="/>
   
     <POI MapID="25" xpos="-407.393" ypos="-10.5113" zpos="480.972" type="resourcenode.ore.normal.platinum" GUID="tke2ob9Dlk6UbaVzAAXrEg=="/>
-  
-    <POI MapID="25" xpos="-221.989" ypos="-18.5747" zpos="432.822" type="resourcenode.ore.normal.platinum" GUID="62ygJukiCEy8qMB4fJo1pw=="/>
   
     <POI MapID="25" xpos="-496.48" ypos="4.53847" zpos="472.476" type="resourcenode.wood.hard" GUID="eScQ6GD72EGI8J5XvQ9ihw=="/>
   
@@ -5196,13 +5194,13 @@
   
     <POI MapID="1175" xpos="-736.698" ypos="-23.902" zpos="-473.026" type="resourcenode.plant.orichalcum.mussels" GUID="bkl4N5G4xU2aqwuvrZBKUg=="/>
   
-    <POI MapID="1175" xpos="639.053" ypos="4.05198" zpos="-0.386958" GUID="AVPd5RsiDUSIErXoC5O63A=="/>
+    <POI MapID="1175" xpos="639.053" ypos="4.05198" zpos="-0.386958" type="event.skritt loots.spawn" GUID="AVPd5RsiDUSIErXoC5O63A=="/>
   
-    <POI MapID="1175" xpos="666.742" ypos="0.967577" zpos="20.3573" GUID="BOu12w1df0iolDaQTGM3rw=="/>
+    <POI MapID="1175" xpos="666.742" ypos="0.967577" zpos="20.3573" type="event.skritt loots.spawn" GUID="BOu12w1df0iolDaQTGM3rw=="/>
   
-    <POI MapID="1175" xpos="682.284" ypos="0.403368" zpos="8.71052" GUID="6NxuTk0DNUG+Qug23ouWOA=="/>
+    <POI MapID="1175" xpos="682.284" ypos="0.403368" zpos="8.71052" type="event.skritt loots.spawn" GUID="6NxuTk0DNUG+Qug23ouWOA=="/>
   
-    <POI MapID="1175" xpos="633.587" ypos="4.29841" zpos="26.8371" GUID="fjc2yevEKEO9RhBOv1YsNQ=="/>
+    <POI MapID="1175" xpos="633.587" ypos="4.29841" zpos="26.8371" type="event.skritt loots.spawn" GUID="fjc2yevEKEO9RhBOv1YsNQ=="/>
   
     <POI MapID="1175" xpos="662.827" ypos="1.36534" zpos="2.55062" type="chest.meta" GUID="OX0kJ496WE67D+olobXvlw=="/>
   
@@ -5234,17 +5232,17 @@
   
     <POI MapID="1175" xpos="-791.063" ypos="33.0259" zpos="-302.343" type="resourcenode.wood.elder" GUID="znzvUdwS7kimhQyGYn3FsQ=="/>
   
-    <POI MapID="1175" xpos="720.809" ypos="1.20456" zpos="-191.24" GUID="URGpMQm9+kS9lhJMNcuHuA=="/>
+    <POI MapID="1175" xpos="720.809" ypos="1.20456" zpos="-191.24" type="event.loots" GUID="URGpMQm9+kS9lhJMNcuHuA=="/>
   
-    <POI MapID="1175" xpos="653.617" ypos="1.2582" zpos="-247.409" GUID="0t+1OAB9/kabU/hfyM7XkQ=="/>
+    <POI MapID="1175" xpos="653.617" ypos="1.2582" zpos="-247.409" type="event.loots" GUID="0t+1OAB9/kabU/hfyM7XkQ=="/>
   
-    <POI MapID="1175" xpos="587.419" ypos="21.1577" zpos="-203.408" GUID="ftU0OJ7o2E+Bq2s0Jh8c+w=="/>
+    <POI MapID="1175" xpos="587.419" ypos="21.1577" zpos="-203.408" type="event.skritt loots.spawn" GUID="ftU0OJ7o2E+Bq2s0Jh8c+w=="/>
   
-    <POI MapID="1175" xpos="593.257" ypos="42.0537" zpos="-126.342" GUID="cbIAYKJqg0KxI8qj4j0eEQ=="/>
+    <POI MapID="1175" xpos="593.257" ypos="42.0537" zpos="-126.342" type="event.skritt loots.spawn" GUID="cbIAYKJqg0KxI8qj4j0eEQ=="/>
   
-    <POI MapID="1175" xpos="673.711" ypos="1.31517" zpos="-28.0208" GUID="2qFrnGzFIEKyU1KWGkkJrQ=="/>
+    <POI MapID="1175" xpos="673.711" ypos="1.31517" zpos="-28.0208" type="event.skritt loots.spawn" GUID="2qFrnGzFIEKyU1KWGkkJrQ=="/>
   
-    <POI MapID="1175" xpos="662.117" ypos="7.13364" zpos="-383.316" GUID="NTuIlpsBqU64FnbhFCH/OQ=="/>
+    <POI MapID="1175" xpos="662.117" ypos="7.13364" zpos="-383.316" type="event.loots" GUID="NTuIlpsBqU64FnbhFCH/OQ=="/>
   
     <POI MapID="1175" xpos="-864.752" ypos="18.6723" zpos="-421.294" type="resourcenode.plant.mithril.bloomingpassiflora" GUID="TkwD8ZtqaUCLlF+XZHboog=="/>
   
@@ -5274,7 +5272,7 @@
   
     <POI MapID="1175" xpos="-661.075" ypos="13.7451" zpos="-621.773" type="resourcenode.wood.elder" GUID="pV/LBNjyakKE+8N0dJdoxA=="/>
   
-    <POI MapID="1175" xpos="651.231" ypos="1.98906" zpos="28.9217" GUID="ZBSjofWnP0mEgT7+hWIG/g=="/>
+    <POI MapID="1175" xpos="651.231" ypos="1.98906" zpos="28.9217" type="event.skritt loots.spawn" GUID="ZBSjofWnP0mEgT7+hWIG/g=="/>
   
     <POI MapID="1175" xpos="277.978" ypos="30.2007" zpos="-831.317" type="chest.meta" GUID="A5IWVv+yGkObplHbojcswA=="/>
   
@@ -5284,7 +5282,7 @@
   
     <POI MapID="1175" xpos="-416.092" ypos="14.1404" zpos="-875.961" type="chest.meta" GUID="0NFc+17hY0eR222ZlTlHNw=="/>
   
-    <POI MapID="1175" xpos="639.626" ypos="3.28245" zpos="15.6552" GUID="R4AnmRazwkmfeNkze434Pg=="/>
+    <POI MapID="1175" xpos="639.626" ypos="3.28245" zpos="15.6552" type="event.skritt loots.spawn" GUID="R4AnmRazwkmfeNkze434Pg=="/>
   
     <POI MapID="1175" xpos="-535.915" ypos="4.91559" zpos="-510.422" type="resourcenode.wood.elder" GUID="k9kQipZhp0uT3X5WVrnYCw=="/>
   
@@ -5312,9 +5310,9 @@
   
     <POI MapID="1165" xpos="44.5878" ypos="612.128" zpos="54.3348" type="resourcenode.ore.normal.bloodstone crystals" GUID="u09FbkBKj02osx7d53Q95w=="/>
   
-    <POI MapID="1175" xpos="676.358" ypos="0.729461" zpos="0.22244" GUID="iZ1JUA5pJk606nZuYLwucw=="/>
+    <POI MapID="1175" xpos="676.358" ypos="0.729461" zpos="0.22244" type="event.skritt loots.spawn" GUID="iZ1JUA5pJk606nZuYLwucw=="/>
   
-    <POI MapID="1175" xpos="665.928" ypos="1.43757" zpos="-12.1467" GUID="9QtirOTsRkyW4A4xJMNaOg=="/>
+    <POI MapID="1175" xpos="665.928" ypos="1.43757" zpos="-12.1467" type="event.skritt loots.spawn" GUID="9QtirOTsRkyW4A4xJMNaOg=="/>
   
     <POI MapID="1175" xpos="-377.468" ypos="1.43185" zpos="-881.878" type="resourcenode.wood.elder" GUID="kiiGBEzN+E+NYW4u/EMa7w=="/>
   
@@ -5349,8 +5347,6 @@
     <POI MapID="62" xpos="-82.9305" ypos="15.8701" zpos="-131.825" type="resourcenode.wood.elder" GUID="0L9Lt3+D2USiV4B7isSOlg=="/>
   
     <POI MapID="1175" xpos="569.917" ypos="39.3352" zpos="-142.478" type="resourcenode.wood.petrified" GUID="IWCIi3HcNU+8oyT/+jmBog=="/>
-  
-    <POI MapID="1175" xpos="691.667" ypos="1.13878" zpos="-369.081" type="resourcenode.wood.petrified" GUID="00Jpwf1aNEaqL+fqCVp5vA=="/>
   
     <POI MapID="1175" xpos="314.356" ypos="125.184" zpos="-723.83" type="resourcenode.ore.normal.orichalcum" GUID="jwEI12X0lEKTuA3rOXWHvA=="/>
   
@@ -5414,7 +5410,7 @@
   
     <POI MapID="38" xpos="462.181" ypos="16.6814" zpos="-137.84" type="resourcenode.other.cloth" GUID="KmVGyqJnUUWE19r8n3CsgQ=="/>
   
-    <POI MapID="1175" xpos="655.292" ypos="1.80672" zpos="5.98509" GUID="Nqb7CqSGhEWnL0zP2dpDkQ=="/>
+    <POI MapID="1175" xpos="655.292" ypos="1.80672" zpos="5.98509" type="event.skritt loots.spawn" GUID="Nqb7CqSGhEWnL0zP2dpDkQ=="/>
   
     <POI MapID="1175" xpos="-717.145" ypos="12.9729" zpos="-378.097" type="resourcenode.wood.petrified" GUID="17/YfpIK702LZZiq9od5GA=="/>
   
@@ -5489,5 +5485,339 @@
     <POI MapID="1052" xpos="535.773" ypos="385.835" zpos="232.228" type="resourcenode.wood.ancient" GUID="NGkMSIzWqEubQjPYxkY5xg=="/>
   
     <POI MapID="1052" xpos="149.357" ypos="383.469" zpos="-236.972" type="chest.mapspecific.verdantbrink_large" GUID="/VNB57GyVUCV6Nsd1ES5WQ=="/>
+  
+    <POI MapID="27" xpos="-418.23" ypos="168.931" zpos="482.467" GUID="+0gTimHGSU2AUovK2Z2cbA=="/>
+  
+    <POI MapID="27" xpos="-391.194" ypos="92.3367" zpos="805.118" type="chest.permanent" GUID="JwawnwlhxEW0ZdHXe0SQ0g=="/>
+  
+    <POI MapID="27" xpos="332.716" ypos="155.706" zpos="1224.82" type="resourcenode.wood.soft" GUID="CBZYzWLJMUKA/YcQkt+vgQ=="/>
+  
+    <POI MapID="27" xpos="415.165" ypos="194.182" zpos="1278.95" type="resourcenode.ore.rich.iron" GUID="FkfKqhnTtUSxEw2E4Cfvyg=="/>
+  
+    <POI MapID="22" xpos="73.1823" ypos="19.8608" zpos="-316.39" type="resourcenode.wood.hard" GUID="OnU2I2KQB0m0f8VKs53DOg=="/>
+  
+    <POI MapID="22" xpos="99.0661" ypos="20.9835" zpos="-350.499" type="resourcenode.wood.hard" GUID="ggCb4MNFvkKQW9V6GEOL6w=="/>
+  
+    <POI MapID="22" xpos="-743.755" ypos="64.2088" zpos="-259.679" type="resourcenode.wood.hard" GUID="ZKrfFkuJGkyOaCkTA7PncA=="/>
+  
+    <POI MapID="22" xpos="-725.652" ypos="53.1887" zpos="-120.961" type="resourcenode.ore.normal.platinum" GUID="/E3vffa4dEeVwBT/7lWu4w=="/>
+  
+    <POI MapID="22" xpos="-782.614" ypos="50.1395" zpos="-128.801" type="resourcenode.ore.normal.platinum" GUID="QeL+RAVR6EKi4YPFu4g0RQ=="/>
+  
+    <POI MapID="22" xpos="-827.854" ypos="74.0584" zpos="-83.6727" type="resourcenode.ore.normal.platinum" GUID="iWOCfFTKNUW4nWaAhC3t3Q=="/>
+  
+    <POI MapID="23" xpos="-852.773" ypos="30.7029" zpos="-344.172" type="resourcenode.wood.soft" GUID="76FsHz0tD0awu7eNyBsCSg=="/>
+  
+    <POI MapID="1175" xpos="693.345" ypos="1.99696" zpos="-369.04" type="resourcenode.wood.petrified" GUID="LDBUHkQWfEu2/ImfI41mVA=="/>
+  
+    <POI MapID="1175" xpos="-537.427" ypos="6.04149" zpos="-905.158" type="resourcenode.wood.elder" GUID="WEHhywI2o06aen16Iyxzvw=="/>
+  
+    <POI MapID="62" xpos="443.219" ypos="42.0771" zpos="389.26" type="resourcenode.wood.elder" GUID="pMVLolqFLEOG4EAvJ00/Ug=="/>
+  
+    <POI MapID="62" xpos="408.005" ypos="41.5183" zpos="418.677" type="resourcenode.plant.orichalcum.snowtruffle" GUID="pQkRvqziKkyyBvQZin2ccA=="/>
+  
+    <POI MapID="62" xpos="342.738" ypos="29.8914" zpos="255.345" type="resourcenode.wood.ancient" GUID="zeL+qKFzCUmWetP6frZ8FA=="/>
+  
+    <POI MapID="62" xpos="162.037" ypos="31.8648" zpos="706.931" type="resourcenode.wood.ancient" GUID="tPzMtbbVr0+cE9usMBuXeQ=="/>
+  
+    <POI MapID="62" xpos="226.092" ypos="20.6658" zpos="214.832" type="resourcenode.plant.orichalcum.ghostpepper" GUID="/vhAjemeGUW9Pp7h/Z4YvQ=="/>
+  
+    <POI MapID="62" xpos="187.539" ypos="8.95877" zpos="247.546" type="resourcenode.wood.elder" GUID="EE+Fr2dBkkaZCbx5OR38Gg=="/>
+  
+    <POI MapID="62" xpos="186.354" ypos="8.52628" zpos="255.785" type="resourcenode.plant.orichalcum.orriantruffle" GUID="I/ReJE1vGEGpDQsiaoDohg=="/>
+  
+    <POI MapID="62" xpos="218.465" ypos="14.3354" zpos="288.675" type="resourcenode.plant.orichalcum.orriantruffle" GUID="vrBtN7INh0uJKO7yyUPRXg=="/>
+  
+    <POI MapID="62" xpos="-175.776" ypos="8.23229" zpos="29.4105" type="resourcenode.plant.orichalcum.blackcrocus" GUID="DqfMYiTNvU2iCac7rjtpNg=="/>
+  
+    <POI MapID="62" xpos="-126.386" ypos="13.8599" zpos="115.649" type="resourcenode.wood.elder" GUID="Duse07GJqECWFBDF6BAb3Q=="/>
+  
+    <POI MapID="62" xpos="31.5359" ypos="24.2192" zpos="-483.08" type="resourcenode.wood.elder" GUID="l6VB1aRsWU2aTU8beN6N+A=="/>
+  
+    <POI MapID="62" xpos="357.39" ypos="7.33693" zpos="-881.65" type="resourcenode.wood.ancient" GUID="Rb9DeN5ea0KPgZl+hJNYqg=="/>
+  
+    <POI MapID="62" xpos="367.391" ypos="17.0111" zpos="-846.201" type="resourcenode.wood.ancient" GUID="ikUpSCvT/EOUasL5y21uiw=="/>
+  
+    <POI MapID="62" xpos="420.718" ypos="2.39872" zpos="-987.04" type="resourcenode.ore.normal.orichalcum" GUID="GIcZsDoprkKNr1uzUq93wQ=="/>
+  
+    <POI MapID="62" xpos="450.424" ypos="19.0237" zpos="-805.325" type="resourcenode.ore.normal.orichalcum" GUID="8lgNHXRLJkue35QvE57ttA=="/>
+  
+    <POI MapID="62" xpos="-49.7011" ypos="13.7838" zpos="400.932" type="resourcenode.plant.orichalcum.ghostpepper" GUID="TStL+MoKTkiK3tHa2ABwpQ=="/>
+  
+    <POI MapID="62" xpos="0.277819" ypos="1.88274" zpos="236.364" type="resourcenode.plant.orichalcum.ghostpepper" GUID="4hNUSK9DrEmZ00J805z3lQ=="/>
+  
+    <POI MapID="62" xpos="-303.518" ypos="34.4016" zpos="770.566" type="chest.permanent" GUID="mfjll4oFeE61T7nAfs7K9g=="/>
+  
+    <POI MapID="62" xpos="28.0673" ypos="15.4837" zpos="-128.992" type="resourcenode.wood.elder" GUID="ZTTPCsRLPEC6h+EHT7W0uQ=="/>
+  
+    <POI MapID="62" xpos="-221.927" ypos="1.19827" zpos="207.289" type="resourcenode.plant.orichalcum.ghostpepper" GUID="8uMlRErnBEWQR3ta1KjgDw=="/>
+  
+    <POI MapID="20" xpos="-151.012" ypos="25.7194" zpos="-103.688" type="resourcenode.wood.seasoned" GUID="NaTF87dtc0ulAkufsHbihw=="/>
+  
+    <POI MapID="20" xpos="-142.46" ypos="33.1871" zpos="-750.548" type="resourcenode.ore.normal.iron" GUID="QbAOuJSmZ0GUdI7uq2bKdw=="/>
+  
+    <POI MapID="20" xpos="16.8468" ypos="18.0377" zpos="-764.667" type="resourcenode.wood.seasoned" GUID="pxSJS9z4pEu1/mupAlfT8A=="/>
+  
+    <POI MapID="20" xpos="13.3493" ypos="58.0446" zpos="-490.659" type="resourcenode.wood.seasoned" GUID="TmrpKZ6PbEe1yJz39rUGsQ=="/>
+  
+    <POI MapID="20" xpos="184.903" ypos="13.2167" zpos="131.399" type="resourcenode.wood.seasoned" GUID="wDSRHDWxcUyh9UP0Gr53/Q=="/>
+  
+    <POI MapID="20" xpos="240.069" ypos="63.6743" zpos="8.03377" type="resourcenode.wood.seasoned" GUID="Nsw5AHDLMEqmvGFYryzs5Q=="/>
+  
+    <POI MapID="20" xpos="329.409" ypos="75.8826" zpos="-213.764" type="resourcenode.ore.normal.iron" GUID="ojKZA2+E/0ax6WFfzwn2YA=="/>
+  
+    <POI MapID="20" xpos="260.607" ypos="61.4434" zpos="-256.905" type="resourcenode.wood.seasoned" GUID="/kjb8wcNQ0u5PxK8rqKx7g=="/>
+  
+    <POI MapID="20" xpos="143.908" ypos="58.6981" zpos="-425.994" type="resourcenode.ore.normal.iron" GUID="icAGo4MBzUCusrADXqS/AQ=="/>
+  
+    <POI MapID="20" xpos="102.068" ypos="61.5762" zpos="-445.504" type="resourcenode.ore.normal.iron" GUID="2/lft2GT1kuWFKdk5Zy6jQ=="/>
+  
+    <POI MapID="20" xpos="81.5775" ypos="53.848" zpos="-413.522" type="resourcenode.wood.seasoned" GUID="WN8GPvfFNUKi0fQwjM9oMw=="/>
+  
+    <POI MapID="20" xpos="159.065" ypos="26.2379" zpos="-982.114" type="resourcenode.ore.normal.iron" GUID="U0Uvc03dQ0eCCvTNYlXGSA=="/>
+  
+    <POI MapID="20" xpos="105.579" ypos="35.3585" zpos="-749.669" type="resourcenode.wood.seasoned" GUID="H5giPsTNNEO3V/bHfM+tlA=="/>
+  
+    <POI MapID="20" xpos="28.8794" ypos="37.0037" zpos="-861.371" type="chest.meta" GUID="Gr7M6dh5FkS57GoXGD2ZOw=="/>
+  
+    <POI MapID="51" xpos="-232.627" ypos="3.29039" zpos="-593.948" type="resourcenode.wood.elder" GUID="HrTkFvA+ekKXALefoTviOQ=="/>
+  
+    <POI MapID="25" xpos="-490.563" ypos="13.3761" zpos="412.896" type="resourcenode.wood.hard" GUID="kdIQrDPDKUWRe4dICQNpZQ=="/>
+  
+    <POI MapID="25" xpos="-346.212" ypos="23.3044" zpos="530.123" type="resourcenode.wood.hard" GUID="qwPK3toqf0qKCCNYRGTZUg=="/>
+  
+    <POI MapID="25" xpos="-220.563" ypos="-17.6353" zpos="434.509" type="resourcenode.ore.normal.platinum" GUID="CXXc7vrzxEWmPZ/qHw+0Nw=="/>
+  
+    <POI MapID="62" xpos="39.6426" ypos="17.0996" zpos="-89.862" type="resourcenode.wood.elder" GUID="DgtkuNbyl0u2UfrcwwSE0A=="/>
+  
+    <POI MapID="62" xpos="28.0542" ypos="17.0174" zpos="-138.179" type="resourcenode.wood.ancient" GUID="w5BVepycgEe0dA15N8VXqA=="/>
+  
+    <POI MapID="21" xpos="376.762" ypos="-8.27674" zpos="506.697" type="achievements.current event.undefined" GUID="o9SJNwGXMUGnnWGzRVRsnA=="/>
+  
+    <POI MapID="21" xpos="432.486" ypos="8.92487" zpos="417.487" type="resourcenode.wood.seasoned" GUID="SxEiTvDk5UWKDHAbaTNFlw=="/>
+  
+    <POI MapID="21" xpos="424.438" ypos="7.14623" zpos="409.896" type="resourcenode.wood.seasoned" GUID="lq6kWi0koUmuDZ5Mvojb/g=="/>
+  
+    <POI MapID="24" xpos="486.909" ypos="2.74745" zpos="-227.693" type="resourcenode.ore.normal.iron" GUID="A+ZX9/sp1Ei4Z+EsntpXgw=="/>
+  
+    <POI MapID="24" xpos="476.487" ypos="11.9973" zpos="-160.156" type="resourcenode.ore.normal.iron" GUID="EnbCNyecc0yKcCplCqUJkA=="/>
+  
+    <POI MapID="24" xpos="1096.59" ypos="71.4227" zpos="4.11696" type="resourcenode.ore.normal.iron" GUID="pzkiz2dxnUSFj76w2L1JEg=="/>
+  
+    <POI MapID="24" xpos="1088.07" ypos="67.6061" zpos="-52.3106" type="resourcenode.wood.soft" GUID="XsRgPluZKk2QjNXdVjmCow=="/>
+  
+    <POI MapID="24" xpos="1069.86" ypos="70.6706" zpos="-53.8466" type="resourcenode.ore.normal.iron" GUID="lu2UhpIP2kKxrTFjQ5pyig=="/>
+  
+    <POI MapID="24" xpos="1120.96" ypos="48.7771" zpos="73.9409" type="resourcenode.ore.normal.iron" GUID="GLUAm5Br4UuAAp/b6sttKw=="/>
+  
+    <POI MapID="62" xpos="163.162" ypos="30.594" zpos="697.1" type="resourcenode.wood.elder" GUID="hqzPGzK1y0uCO1F+Uj349Q=="/>
+  
+    <POI MapID="62" xpos="164.352" ypos="11.3466" zpos="283.674" type="resourcenode.plant.orichalcum.orriantruffle" GUID="PlIoPGZMMUKJRsl0JQJ48g=="/>
+  
+    <POI MapID="62" xpos="-189.099" ypos="7.11202" zpos="65.6061" type="resourcenode.wood.elder" GUID="NGPyOxcOzk6bmpgEV0BX1g=="/>
+  
+    <POI MapID="62" xpos="113.976" ypos="27.624" zpos="327.481" type="resourcenode.ore.rich.mithril" GUID="9EHFQ+OptUSVUvsN0oZARw=="/>
+  
+    <POI MapID="62" xpos="-105.689" ypos="18.6868" zpos="910.834" type="resourcenode.wood.elder" GUID="Hka0rtz3MEyDg/LjV1CkBQ=="/>
+  
+    <POI MapID="62" xpos="9.77651" ypos="25.8946" zpos="810.313" type="resourcenode.ore.normal.orichalcum" GUID="8JVHBw9S+0+b5lsV/ur/ow=="/>
+  
+    <POI MapID="62" xpos="1.86541" ypos="24.1732" zpos="-422.967" type="resourcenode.wood.ancient" GUID="MTGK3mVBpE+FvJyEyWWcGw=="/>
+  
+    <POI MapID="62" xpos="93.1406" ypos="22.8489" zpos="-493.012" type="resourcenode.wood.elder" GUID="dIl7R5DqPEahUNvjNZstjA=="/>
+  
+    <POI MapID="62" xpos="148.892" ypos="21.7343" zpos="-569.489" type="resourcenode.wood.elder" GUID="+97cQBkvpUWziU/50cknjA=="/>
+  
+    <POI MapID="62" xpos="294.476" ypos="12.8107" zpos="-810.628" type="resourcenode.wood.elder" GUID="wIEjN9Igak283slxPT3S7A=="/>
+  
+    <POI MapID="29" xpos="307.838" ypos="8.10736" zpos="74.1051" type="resourcenode.ore.normal.platinum" GUID="Fj5MHye+XEq6BvULTz7wvQ=="/>
+  
+    <POI MapID="29" xpos="-64.1697" ypos="27.8491" zpos="-680.141" type="resourcenode.wood.hard" GUID="JhnvSTSR30mdPTbtuiIrqQ=="/>
+  
+    <POI MapID="29" xpos="-110.49" ypos="22.9081" zpos="-635.346" type="resourcenode.wood.hard" GUID="ZSztGGtsgEqqrmnZVRnxww=="/>
+  
+    <POI MapID="1175" xpos="-660.929" ypos="23.5346" zpos="-310.862" type="chest.mapspecific.ember bay" GUID="65LWA0qS3EWgxL6bFLkl2A=="/>
+  
+    <POI MapID="1175" xpos="750.064" ypos="1.55861" zpos="157.315" type="chest.mapspecific.ember bay" GUID="9V/+E7v/JUW7KoLNfeyR+w=="/>
+  
+    <POI MapID="21" xpos="-289.402" ypos="15.0621" zpos="125.247" type="resourcenode.wood.soft" GUID="lmmDq+iAwEay/fICXtZByg=="/>
+  
+    <POI MapID="21" xpos="-284.376" ypos="16.1179" zpos="158.421" type="resourcenode.wood.soft" GUID="J1ae6cFEUEWB37pWdgikLA=="/>
+  
+    <POI MapID="21" xpos="283.414" ypos="8.25973" zpos="446.483" type="resourcenode.ore.normal.iron" GUID="fmaFtME+ZkmJZxpXriB5Nw=="/>
+  
+    <POI MapID="21" xpos="463.928" ypos="6.17484" zpos="558.645" type="achievements.current event.undefined" GUID="L2bKnYOBbEKJY8wsJZTaBw=="/>
+  
+    <POI MapID="21" xpos="520.983" ypos="0.545476" zpos="672.419" type="achievements.current event.rift" GUID="FQHwfZ+6H0KdXpqLokAU3Q=="/>
+  
+    <POI MapID="65" xpos="-401.665" ypos="153.348" zpos="131.737" type="achievements.diving goggles" GUID="sObuhmtnLUeYGN0NdLfUeA=="/>
+  
+    <POI MapID="65" xpos="-379.575" ypos="19.5987" zpos="-129.517" type="resourcenode.ore.normal.orichalcum" GUID="Lyk7ETyyAkCv5fLCc6mXdQ=="/>
+  
+    <POI MapID="35" xpos="-336.2" ypos="97.4157" zpos="689.873" type="chest.meta" GUID="RcHnketaZEqjufVdyUslqA=="/>
+  
+    <POI MapID="35" xpos="-132.487" ypos="17.035" zpos="839.421" type="resourcenode.wood.green" GUID="ZAVtWVMg7U6anIC6aTepUg=="/>
+  
+    <POI MapID="21" xpos="273.776" ypos="2.13241" zpos="667.007" type="achievements.current event.rift" GUID="B3P3xjX0BU6E9JjhSrFLZQ=="/>
+  
+    <POI MapID="988" xpos="310.321" ypos="157.477" zpos="-405.514" type="achievements.diving goggles" GUID="v7WSRSxVhEiEW5/ALp9cmA=="/>
+  
+    <POI MapID="988" xpos="314.442" ypos="135.804" zpos="-416.311" type="chest.permanent" GUID="2jBC3Nw48026+ajvmpFL5w=="/>
+  
+    <POI MapID="21" xpos="361.516" ypos="10.2689" zpos="686.919" type="achievements.current event.rift" GUID="kd0UE/b3HUGPoXC0w1Dwag=="/>
+  
+    <POI MapID="91" xpos="56.3938" ypos="74.6828" zpos="-18.283" type="achievements.diving goggles" GUID="W/Agp57H+UW+9iKSPhbwUg=="/>
+  
+    <POI MapID="21" xpos="432.848" ypos="9.21899" zpos="604.167" type="achievements.current event.sad anomaly" GUID="aSiNpSLVb0q02175VjesNg=="/>
+  
+    <POI MapID="21" xpos="55.9051" ypos="2.7767" zpos="512.971" type="achievements.current event.bloodstone-crazed creatures" GUID="Ag4s3VSvEkqWKSwHT4ccpQ=="/>
+  
+    <POI MapID="21" xpos="404.764" ypos="-1.05664" zpos="497.85" type="achievements.current event.sad anomaly" GUID="mZAS1voeFkCQRTDfNNo/jA=="/>
+  
+    <POI MapID="27" xpos="-51.0039" ypos="118.899" zpos="1430.12" type="resourcenode.ore.normal.iron" GUID="rn3/bOKgL0ugECxuz/WaUg=="/>
+  
+    <POI MapID="27" xpos="-90.7409" ypos="118.068" zpos="1429.5" type="resourcenode.ore.normal.iron" GUID="vekhp84spk+IueuEK4IkBA=="/>
+  
+    <POI MapID="30" xpos="-436.668" ypos="49.413" zpos="556.121" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="coL/klPhMkCydOemQ7TGkA=="/>
+  
+    <POI MapID="20" xpos="590.46" ypos="42.7248" zpos="1108.77" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="UUaYDH8cH0+bJBS5Xa1F0Q=="/>
+  
+    <POI MapID="54" xpos="-47.3729" ypos="9.63803" zpos="663.563" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="uzcb56fk1E+WnpT6/cl6Cw=="/>
+  
+    <POI MapID="1052" xpos="409.485" ypos="436.313" zpos="166.676" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="xpICEg0rBU+W2z2fbsRHhg=="/>
+  
+    <POI MapID="1052" xpos="408.839" ypos="406.864" zpos="229.511" type="resourcenode.ore.normal.orichalcum" GUID="LTl+zPfdI0ucnw/105VMRA=="/>
+  
+    <POI MapID="15" xpos="-129.49" ypos="56.4861" zpos="564.466" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="lUJ2Wtq3/0GKfnAhJM/02g=="/>
+  
+    <POI MapID="17" xpos="202.51" ypos="84.3476" zpos="-393.095" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="m4EYLVpV9kK/xkTHx64ZXQ=="/>
+  
+    <POI MapID="139" xpos="136.492" ypos="399.883" zpos="148.594" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="6ZRUGzu1p0CWmxGVtNbmpg=="/>
+  
+    <POI MapID="29" xpos="255.444" ypos="83.8483" zpos="-511.872" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="5//MZ3MQW0yv2CPiRt82cA=="/>
+  
+    <POI MapID="39" xpos="-431.628" ypos="119.773" zpos="-411.023" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="Gsfpm8ZIqE2sEGZ8/BSBSA=="/>
+  
+    <POI MapID="1015" xpos="267.724" ypos="318.95" zpos="167.357" type="achievements.current event.bloodstone harvest.bloodstone sliver" GUID="zuM1LVWtAUqaDFpn6iFBBw=="/>
+  
+    <POI MapID="62" xpos="-150.106" ypos="13.4127" zpos="112.129" type="resourcenode.wood.elder" GUID="JEjP+TnmG0eR893ju0fkng=="/>
+  
+    <POI MapID="62" xpos="-25.9604" ypos="29.0758" zpos="-16.5128" type="resourcenode.ore.normal.orichalcum" GUID="jRLR74z3ykax8Og+vD2Quw=="/>
+  
+    <POI MapID="62" xpos="2.22036" ypos="31.4397" zpos="-11.0212" type="resourcenode.ore.normal.orichalcum" GUID="1FmkV8AIUk6qrI6X63ofjg=="/>
+  
+    <POI MapID="62" xpos="146.062" ypos="29.3743" zpos="48.1049" type="resourcenode.wood.elder" GUID="4geike7ko0qFrl5nXyMQlw=="/>
+  
+    <POI MapID="62" xpos="-72.9263" ypos="10.4451" zpos="410.776" type="resourcenode.wood.elder" GUID="fYpSd3aurEOj4iGxTd8LMQ=="/>
+  
+    <POI MapID="62" xpos="101.826" ypos="24.7384" zpos="371.848" type="achievements.diving goggles" GUID="0N6jolXODUGus2IL9ykA9A=="/>
+  
+    <POI MapID="62" xpos="113.437" ypos="24.3915" zpos="720.394" type="resourcenode.wood.elder" GUID="P5DbcuuoAkWmB09zTUNQZA=="/>
+  
+    <POI MapID="62" xpos="55.831" ypos="12.1706" zpos="703.084" type="resourcenode.wood.elder" GUID="8wPCnTZhskeuJMicpf/KbA=="/>
+  
+    <POI MapID="62" xpos="401.928" ypos="41.0131" zpos="409.317" type="resourcenode.wood.ancient" GUID="FvxgQXRXZ0ebO+IGhtMNFg=="/>
+  
+    <POI MapID="1175" xpos="603.917" ypos="13.6577" zpos="-320.852" type="event.skritt loots.trigger" GUID="pSgS0EqSskeqIeAEsIgYTg=="/>
+  
+    <POI MapID="1175" xpos="-691.643" ypos="9.08469" zpos="-652.995" type="event.spawn.2" GUID="yURLqKSiCkyOk0q42ax3FA=="/>
+  
+    <POI MapID="1175" xpos="-718.354" ypos="20.3138" zpos="-677.811" type="event.spawn.2" GUID="mmnVqxo3mkW7vdN2On+MJA=="/>
+  
+    <POI MapID="1175" xpos="-677.99" ypos="0.684139" zpos="-454.635" type="event.spawn.2" GUID="K3Q9GUFm10m+kizxHYk42w=="/>
+  
+    <POI MapID="1175" xpos="-633.424" ypos="4.61114" zpos="-433.252" type="event.spawn.2" GUID="aibjGaBeIUCnME8JUx3kDQ=="/>
+  
+    <POI MapID="26" xpos="-398.768" ypos="80.9884" zpos="-223.643" type="resourcenode.wood.seasoned" GUID="P2w2+J6Ck0WyKMi1TeejBg=="/>
+  
+    <POI MapID="26" xpos="-77.5507" ypos="75.4467" zpos="-678.207" type="resourcenode.ore.normal.iron" GUID="BGNwv0XX3kKxgcrSzSOq1w=="/>
+  
+    <POI MapID="26" xpos="414.581" ypos="46.2718" zpos="-590.876" type="resourcenode.wood.seasoned" GUID="KgfCut0LeEW1i94BXmBtEQ=="/>
+  
+    <POI MapID="26" xpos="677.661" ypos="56.2677" zpos="-783.301" type="achievements.legendary backpacks.ad infinitum iii: unbound" GUID="oaRZ3Q1+9U+35r6NSAFCXQ=="/>
+  
+    <POI MapID="22" xpos="-809.369" ypos="66.5379" zpos="-51.8063" type="resourcenode.wood.hard" GUID="UhE5aRIwOki/hyJFXFifRQ=="/>
+  
+    <POI MapID="22" xpos="-692.425" ypos="50.1991" zpos="-150.725" type="resourcenode.wood.hard" GUID="t0nyYqZAfUmvZo4smiaZqg=="/>
+  
+    <POI MapID="22" xpos="-594.549" ypos="53.9889" zpos="-306.987" type="resourcenode.wood.hard" GUID="9GUP4+JUGkiN6aN3E1vXYg=="/>
+  
+    <POI MapID="22" xpos="-379.324" ypos="21.0464" zpos="-705.277" type="jumping puzzle.way" GUID="ReIzLtNXn0qol3Bsn07qXg=="/>
+  
+    <POI MapID="22" xpos="-380.592" ypos="20.4014" zpos="-747.252" type="jumping puzzle.way" GUID="fSS5G6tdlUCzmdozYP8fsQ=="/>
+  
+    <POI MapID="22" xpos="-272.533" ypos="5.2361" zpos="-797.27" type="chest.meta" GUID="6J8+4wedD0muXE/uiSmhlg=="/>
+  
+    <POI MapID="22" xpos="-240.245" ypos="8.87529" zpos="-845.226" type="achievements.legendary backpacks.ad infinitum iii: unbound" GUID="D4QYW1bd1UKDGG4SfSYwUA=="/>
+  
+    <POI MapID="22" xpos="-220.548" ypos="29.7685" zpos="-682.909" type="jumping puzzle.way" GUID="/bRYQpd/l0umzeuaMHprGw=="/>
+  
+    <POI MapID="22" xpos="354.147" ypos="36.9" zpos="0.0472473" type="jumping puzzle.way" GUID="5tFDDQvsuUWmKOTg7PDY2w=="/>
+  
+    <POI MapID="957" xpos="-11.4956" ypos="4.25753" zpos="161.265" type="achievements.legendary backpacks.ad infinitum iii: unbound" GUID="pX+jUM5aZ0akFrFGMCFLEQ=="/>
+  
+    <POI MapID="67" xpos="-255.703" ypos="-52.949" zpos="249.372" type="chest.permanent" GUID="KeMipJZVm0GWV+256K93EQ=="/>
+  
+    <POI MapID="67" xpos="-321.366" ypos="-86.8834" zpos="289.25" type="chest.permanent" GUID="Q2IjQk5ZB02f5mz7YgmPlg=="/>
+  
+    <POI MapID="62" xpos="411.452" ypos="22.164" zpos="348.118" type="event.spawn.2" GUID="fucy6zLY7kK5t71jQShlRQ=="/>
+  
+    <POI MapID="62" xpos="365.415" ypos="33.497" zpos="297.146" type="event.spawn.2" GUID="OWnVMSlK30e+wLAQKNEGHg=="/>
+  
+    <POI MapID="62" xpos="295.424" ypos="27.8993" zpos="231.618" type="resourcenode.plant.orichalcum.orriantruffle" GUID="xiDhCjTDQ0eVNCMXRbXb2w=="/>
+  
+    <POI MapID="62" xpos="144.061" ypos="9.87117" zpos="214.104" type="resourcenode.plant.orichalcum.orriantruffle" GUID="wf144P3w/0GBopma+ZibLg=="/>
+  
+    <POI MapID="62" xpos="118.476" ypos="14.3269" zpos="146.555" type="resourcenode.plant.orichalcum.ghostpepper" GUID="r1Ad/lbRa02fXzY7Weg6BQ=="/>
+  
+    <POI MapID="947" xpos="-761.918" ypos="827.414" zpos="-698.911" type="achievements.legendary backpacks.ad infinitum iii: unbound" GUID="fH3HjkX4DkqvZc0nf1q7ig=="/>
+  
+    <POI MapID="62" xpos="404.904" ypos="2.98977" zpos="-914.478" type="resourcenode.wood.ancient" GUID="el96Xv6Mn0iMezT8Qsy5Qw=="/>
+  
+    <POI MapID="62" xpos="297.39" ypos="3.99798" zpos="-865.448" type="resourcenode.wood.elder" GUID="fL3bX6pM1EyZKUmNqoltCg=="/>
+  
+    <POI MapID="62" xpos="298.049" ypos="10.0441" zpos="-830.158" type="resourcenode.wood.ancient" GUID="JPu4m6MFB0G7RQ4xq13+Pg=="/>
+  
+    <POI MapID="62" xpos="284.71" ypos="17.7058" zpos="-782.552" type="resourcenode.wood.elder" GUID="Zp3oIFgPQEiD+wOGZ744Gg=="/>
+  
+    <POI MapID="62" xpos="188.926" ypos="33.0725" zpos="718.819" type="resourcenode.wood.elder" GUID="rj1pOv28+E6FtAtTLxJS1w=="/>
+  
+    <POI MapID="62" xpos="239.946" ypos="35.7518" zpos="734.819" type="resourcenode.wood.elder" GUID="73qZaTs3l02K8tA63djLyg=="/>
+  
+    <POI MapID="62" xpos="116.068" ypos="29.3531" zpos="774.465" type="resourcenode.wood.elder" GUID="bn4zIv1jeU2ARfnPhOi7Aw=="/>
+  
+    <POI MapID="62" xpos="-1.33224" ypos="4.58274" zpos="737.15" type="resourcenode.wood.elder" GUID="pYJso+FwE02V208wJpvDoQ=="/>
+  
+    <POI MapID="62" xpos="-61.2128" ypos="5.23626" zpos="672.729" type="resourcenode.wood.ancient" GUID="Sq7XuI5vw0+gr9Vtf34uUg=="/>
+  
+    <POI MapID="62" xpos="-259.16" ypos="8.19959" zpos="840.498" type="resourcenode.wood.elder" GUID="WvBtSh6QzEeURHzZwk/2Jg=="/>
+  
+    <POI MapID="1175" xpos="630.948" ypos="6.87051" zpos="-240.376" type="resourcenode.wood.petrified" GUID="j9TdL0VyLEGvOAZu+qNAOw=="/>
+  
+    <POI MapID="1175" xpos="244.266" ypos="143.658" zpos="-714.253" type="chest.mapspecific.ember bay" GUID="zeLiiUgPkE2WaQOd8OzUBg=="/>
+  
+    <POI MapID="38" xpos="638.012" ypos="42.2638" zpos="-511.191" type="resourcenode.other.leather" GUID="JIinoidiF0WAD8YTC5Qweg=="/>
+  
+    <POI MapID="38" xpos="641.743" ypos="42.0116" zpos="-505.971" type="resourcenode.ore.normal.undefined" GUID="Vbhcb/3pUUS4jSxW7Hw24w=="/>
+  
+    <POI MapID="38" xpos="646.361" ypos="42.187" zpos="-500.988" type="resourcenode.other.cloth" GUID="jYPDMLtEHUq+tkz6CKJOKA=="/>
+  
+    <POI MapID="29" xpos="-420.697" ypos="3.65461" zpos="253.62" type="resourcenode.wood.seasoned" GUID="6OMQFFdqXEixyTeY15LqcA=="/>
+  
+    <POI MapID="1175" xpos="-864.134" ypos="64.2527" zpos="-584.028" GUID="gbMoh/gzK0qWdKptcwV8/Q=="/>
+  
+    <POI MapID="67" xpos="-373.476" ypos="5.74111" zpos="100.206" type="chest.permanent" GUID="LFWVWwLV8UyD8ZnyspuJ3Q=="/>
+  
+    <POI MapID="67" xpos="-321.092" ypos="0.166171" zpos="-36.4762" type="chest.permanent" GUID="OAYNVxtteUeezuTXyf8BpQ=="/>
+  
+    <POI MapID="67" xpos="-361.084" ypos="15.8927" zpos="-193.163" type="chest.permanent" GUID="ZkXyWGlqS0WDqZh9V48tbQ=="/>
+  
+    <POI MapID="1175" xpos="-702.757" ypos="41.9879" zpos="-682.211" type="resourcenode.wood.elder" GUID="yljAggAnQ0WEPREB6x5JkQ=="/>
+  
+    <POI MapID="948" xpos="7.4941" ypos="42.5946" zpos="-62.8181" type="achievements.legendary backpacks.ad infinitum iii: unbound" GUID="8+ohCYHL+0CXtzNdC1XKuw=="/>
+  
+    <POI MapID="1175" xpos="122.905" ypos="127.912" zpos="-99.4823" type="chest.mapspecific.ember bay" GUID="TWDqd0XLwEi6a3IE5ahJnA=="/>
+  
+    <POI MapID="1175" xpos="416.273" ypos="2.58756" zpos="-489.803" type="chest.mapspecific.ember bay" GUID="dpgR9VlRp02b1zmT7240zg=="/>
   </POIs>
 </OverlayData>
