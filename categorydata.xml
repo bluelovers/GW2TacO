@@ -105,6 +105,7 @@
     <MarkerCategory name="other">
 		<MarkerCategory name="Leather" iconFile="Data/Leather.png" iconSize="0.5"/>
 		<MarkerCategory name="Cloth" iconFile="Data/Cloth.png" iconSize="0.5"/>
+		<MarkerCategory name="Candy Cron" iconFile="Data/Ore.png" fadeFar="2400" fadeNear="1200"/>
 		<MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
@@ -221,5 +222,14 @@
 	</MarkerCategory>
 	<MarkerCategory name="loots" iconFile="Data/Bags.png" heightOffset="2"/>
 	<MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Tactical">
+		<MarkerCategory name="GuildMission">
+			<MarkerCategory name="Trek"/>
+		</MarkerCategory>
+		<MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Repeatable" iconFile="Data/Achievement.png" fadeFar="5400" fadeNear="1200" heightOffset="2">
+    <MarkerCategory name="undefined"/>
   </MarkerCategory>
 </OverlayData>
