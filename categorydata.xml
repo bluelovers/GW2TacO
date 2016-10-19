@@ -12,9 +12,9 @@
     </MarkerCategory>
     <MarkerCategory name="Ore" iconFile="Data/Ore.png">
       <MarkerCategory name="Normal">
-        <MarkerCategory name="Copper"/>
+        <MarkerCategory name="Copper" fadeFar="2400" fadeNear="1200"/>
         <MarkerCategory name="Iron"/>
-        <MarkerCategory name="Silver"/>
+        <MarkerCategory name="Silver" fadeFar="2400" fadeNear="1200"/>
         <MarkerCategory name="Gold"/>
         <MarkerCategory name="Platinum"/>
         <MarkerCategory name="Mithril"/>
