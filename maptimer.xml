@@ -173,5 +173,8 @@
     <Event Name="Spawn" Length="20" Color="80c0392b"/>
     <Event Name="Next: Timberline Falls" Length="100" Color="80e74c3c"/>
   </Map>
-
+	<Map Name="Festivals" Length="60" Start="0">
+    <Event Name="says" Length="10" Color="80c0392b"/>
+    <Event Name="" Length="50" Color="rgba(0,0,0,0)"/>
+  </Map>
 </GW2MapTimer>
