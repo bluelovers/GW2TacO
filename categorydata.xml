@@ -170,8 +170,11 @@
 			<MarkerCategory name="undefined"/>
 		</MarkerCategory>
 		<MarkerCategory name="Ship Debris"/>
+		<MarkerCategory name="Nevermore III" iconFile="Data/storyline_green.png"/>
 		<MarkerCategory name="undefined"/>
 	</MarkerCategory>
+	<MarkerCategory name="Nevermore III" iconFile="Data/storyline_green.png" iconSize="0.5" heightOffset="3"/>
+	<MarkerCategory name="Nevermore IV" iconFile="Data/storyline_green.png" iconSize="0.5" heightOffset="3"/>
 	<MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Jumping Puzzle" iconFile="Data/Jumping_Puzzles.png" fadeFar="16800" fadeNear="8400">
@@ -184,6 +187,7 @@
 	<MarkerCategory name="way"/>
 	<MarkerCategory name="temp"/>
 	<MarkerCategory name="Checkpoints"/>
+	<MarkerCategory name="mini dungeon"/>
 	<MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="achievements" iconFile="Data/Achievement.png" fadeFar="8400" fadeNear="2100" heightOffset="2">
@@ -230,6 +234,9 @@
 		<MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Repeatable" iconFile="Data/Achievement.png" fadeFar="5400" fadeNear="1200" heightOffset="2">
+    <MarkerCategory name="undefined"/>
+  </MarkerCategory>
+  <MarkerCategory name="Festivals"> 
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
 </OverlayData>
