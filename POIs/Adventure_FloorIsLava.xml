@@ -1,5 +1,9 @@
 <OverlayData>
-	<MarkerCategory name="tactical.adventure.floorislava" iconFile="Data/spiral.png"/>
+	<MarkerCategory name="tactical">
+	  <MarkerCategory name="adventure">
+	    <MarkerCategory name="floorislava" iconFile="Data/spiral.png"/>
+  	  </MarkerCategory>
+	</MarkerCategory>
 	<POIs>
         <Route Name="Floor is lava" resetposx="-562.167" resetposy="326.338" resetposz="515.736" resetrange="0.1" MapID="1043">
 		<POI MapID="1043" xpos="-561.976" ypos="325.992" zpos="517.153" type="tactical.adventure.floorislava" triggerRange="0.9" GUID="SgZSh03S3kGvUbnuXZXfWA=="/>
