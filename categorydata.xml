@@ -108,6 +108,11 @@
 		<MarkerCategory name="Candy Cron" iconFile="Data/Ore.png" fadeFar="2400" fadeNear="1200"/>
 		<MarkerCategory name="undefined"/>
     </MarkerCategory>
+    <MarkerCategory name="MapSpecific">
+		<MarkerCategory name="Flexible Sticks" iconFile="Data/Wood.png"/>
+		<MarkerCategory name="Shiny Bits of Ice" iconFile="Data/Ore.png"/>
+		<MarkerCategory name="Winterberrie" iconFile="Data/Plant.png"/>
+    </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Chest" iconFile="Data/Chest.png" fadeFar="16800" fadeNear="8400">
@@ -121,6 +126,7 @@
       <MarkerCategory name="TangledDepths" iconFile="data/leylinecrystal.png"/>
       <MarkerCategory name="DragonsStand" iconFile="Data\crystallineore.png"/>
       <MarkerCategory name="Ember Bay"/>
+      <MarkerCategory name="Bitterfrost Frontier"/>
       <MarkerCategory name="undefined"/>
     </MarkerCategory>
     <MarkerCategory name="Permanent"/>
@@ -170,11 +176,12 @@
 			<MarkerCategory name="undefined"/>
 		</MarkerCategory>
 		<MarkerCategory name="Ship Debris"/>
-		<MarkerCategory name="Nevermore III" iconFile="Data/storyline_green.png"/>
+		<MarkerCategory name="Retrieval Squad"/>
 		<MarkerCategory name="undefined"/>
 	</MarkerCategory>
 	<MarkerCategory name="Nevermore III" iconFile="Data/storyline_green.png" iconSize="0.5" heightOffset="3"/>
 	<MarkerCategory name="Nevermore IV" iconFile="Data/storyline_green.png" iconSize="0.5" heightOffset="3"/>
+	
 	<MarkerCategory name="undefined"/>
   </MarkerCategory>
   <MarkerCategory name="Jumping Puzzle" iconFile="Data/Jumping_Puzzles.png" fadeFar="16800" fadeNear="8400">
@@ -203,6 +210,7 @@
 		<MarkerCategory name="undefined"/>
 	</MarkerCategory>
 	<MarkerCategory name="Diving Goggles"/>
+	<MarkerCategory name="Diving Goggles Target"/>
 	<MarkerCategory name="Legendary Backpacks">
 		<MarkerCategory name="Ad Infinitum III: Unbound"/>
 		<MarkerCategory name="undefined"/>
