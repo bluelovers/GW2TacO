@@ -110,8 +110,8 @@
     </MarkerCategory>
     <MarkerCategory name="MapSpecific">
 		<MarkerCategory name="Flexible Sticks" iconFile="Data/Wood.png"/>
-		<MarkerCategory name="Shiny Bits of Ice" iconFile="Data/Ore.png"/>
-		<MarkerCategory name="Winterberrie" iconFile="Data/Plant.png"/>
+		<MarkerCategory name="Shiny Ice" iconFile="Data/Ore.png"/>
+		<MarkerCategory name="Winterberrie" iconFile="Data/Plant/Fresh_Winterberry.png"/>
     </MarkerCategory>
     <MarkerCategory name="undefined"/>
   </MarkerCategory>
@@ -181,6 +181,8 @@
 	</MarkerCategory>
 	<MarkerCategory name="Nevermore III" iconFile="Data/storyline_green.png" iconSize="0.5" heightOffset="3"/>
 	<MarkerCategory name="Nevermore IV" iconFile="Data/storyline_green.png" iconSize="0.5" heightOffset="3"/>
+	<MarkerCategory name="Thorough Sampling trigger" iconFile="Data/storyline_green.png" iconSize="0.5" heightOffset="3"/>
+	<MarkerCategory name="Delicious Desserts" iconSize="0.5" heightOffset="3"/>
 	
 	<MarkerCategory name="undefined"/>
   </MarkerCategory>

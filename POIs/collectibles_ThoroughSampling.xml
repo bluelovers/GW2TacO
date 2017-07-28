@@ -1,7 +1,7 @@
 <OverlayData>
   <MarkerCategory name="Collectible">
     <MarkerCategory name="ACrackInTheIce">
-      <MarkerCategory name="ThoroughSampling" iconFile="Data/A_Crack_In_the_Ice.png" behavior="3"/>
+      <MarkerCategory name="ThoroughSampling" iconFile="Data/A_Crack_In_the_Ice.png"  behavior="4" resetLength="30" iconSize="0.5" heightOffset="2"/>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
