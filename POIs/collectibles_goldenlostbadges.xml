@@ -1,6 +1,6 @@
 <OverlayData>
   <MarkerCategory name="Collectible">
-    <MarkerCategory name="GoldenLostBadges" iconFile="Data\The_Silverwastes.png" behavior="3" heightOffset="0"/>
+    <MarkerCategory name="GoldenLostBadges" DisplayName="Golden Lost Badges" iconFile="Data\The_Silverwastes.png" behavior="3" heightOffset="0"/>
   </MarkerCategory>  
 
   <POIs>

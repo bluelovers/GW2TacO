@@ -1,7 +1,7 @@
 <OverlayData>
-  <MarkerCategory name="festivals"> 
-    <MarkerCategory name="wintersday"> 
-      <MarkerCategory name="orphan" iconFile="data/karma.png" behavior="2"/>
+  <MarkerCategory name="Festivals"> 
+    <MarkerCategory name="Wintersday"> 
+      <MarkerCategory name="Orphan" iconFile="data/karma.png" behavior="2"/>
     </MarkerCategory>
   </MarkerCategory>
 

@@ -1,6 +1,6 @@
 <OverlayData>
   <MarkerCategory name="Tactical.GuildMission.Bounty">
-    <MarkerCategory name="SotzzTheScallywag" iconFile="Data/Bounty_bw.png" color="ff80ff80"/>
+    <MarkerCategory name="SotzzTheScallywag" iconFile="Data/Bounty_bw.png" color="ff80ff80" DisplayName="Sotzz The Scallywag"/>
   </MarkerCategory>
   <POIs>
     <POI type="tactical.guildmission.bounty.sotzzthescallywag" MapID="24" xpos="398.382" ypos="11.7069" zpos="-121.632" GUID="KJbdFJqllEOTRWCrZPksnQ=="/>

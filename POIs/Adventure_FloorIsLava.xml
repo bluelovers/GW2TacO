@@ -1,7 +1,7 @@
 <OverlayData>
-	<MarkerCategory name="tactical">
-	  <MarkerCategory name="adventure">
-	    <MarkerCategory name="floorislava" iconFile="Data/spiral.png"/>
+	<MarkerCategory name="Tactical">
+	  <MarkerCategory name="Adventure">
+	    <MarkerCategory name="floorislava" DisplayName="The Floor is Lava" iconFile="Data/spiral.png"/>
   	  </MarkerCategory>
 	</MarkerCategory>
 	<POIs>

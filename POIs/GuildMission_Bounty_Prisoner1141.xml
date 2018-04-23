@@ -1,8 +1,8 @@
 <OverlayData>
   <MarkerCategory name="Tactical.GuildMission.Bounty">
-    <MarkerCategory name="Prisoner1141Blue" iconFile="Data/Bounty_bw.png" color="ff8080ff"/>
-    <MarkerCategory name="Prisoner1141Orange" iconFile="Data/Bounty_bw.png" color="ffe77d0f"/>
-    <MarkerCategory name="Prisoner1141Red" iconFile="Data/Bounty_bw.png" color="ffff8080"/>
+    <MarkerCategory name="Prisoner1141Blue" iconFile="Data/Bounty_bw.png" color="ff8080ff" DisplayName="Prisoner 1141 Blue Route"/>
+    <MarkerCategory name="Prisoner1141Orange" iconFile="Data/Bounty_bw.png" color="ffe77d0f" DisplayName="Prisoner 1141 Orange Route"/>
+    <MarkerCategory name="Prisoner1141Red" iconFile="Data/Bounty_bw.png" color="ffff8080" DisplayName="Prisoner 1141 Red Route"/>
   </MarkerCategory>
 
   <POIs>
