@@ -1,6 +1,6 @@
 <OverlayData>
   <MarkerCategory name="Collectible">
-    <MarkerCategory name="AStudyInGold" iconFile="Data\Auric_Basin.png" behavior="3"/>
+    <MarkerCategory name="AStudyInGold" DisplayName="A Study in Gold" iconFile="Data\Auric_Basin.png" behavior="3"/>
   </MarkerCategory>
 
   <POIs>  

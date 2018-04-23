@@ -1,6 +1,6 @@
 <OverlayData>
   <MarkerCategory name="Tactical.GuildMission.Bounty">
-    <MarkerCategory name="HalfBakedKomali"/>
+    <MarkerCategory name="HalfBakedKomali" DisplayName="Half Baked Komali"/>
   </MarkerCategory>
   <POIs>
     <Route Name="Half Baked Komali" BackwardDirection="1">

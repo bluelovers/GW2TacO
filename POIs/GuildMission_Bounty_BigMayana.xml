@@ -1,6 +1,6 @@
 <OverlayData>
   <MarkerCategory name="Tactical.GuildMission.Bounty">
-    <MarkerCategory name="BigMayana" iconFile="Data/Bounty_bw.png" color="ff80ff80"/>
+    <MarkerCategory name="BigMayana" DisplayName="Big Mayana" iconFile="Data/Bounty_bw.png" color="ff80ff80"/>
   </MarkerCategory>
   <POIs>
     <POI type="tactical.guildmission.bounty.bigmayana" MapID="53" xpos="-568.427" ypos="14.0047" zpos="818.403" GUID="K9dpioN2fUC3J4B/zp7Y2w=="/>

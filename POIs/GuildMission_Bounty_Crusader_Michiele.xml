@@ -1,6 +1,6 @@
 <OverlayData>
   <MarkerCategory name="Tactical.GuildMission.Bounty">
-    <MarkerCategory name="crusadermichiele"/>
+    <MarkerCategory name="crusadermichiele" DisplayName="Crusader Michiele"/>
   </MarkerCategory>
   <POIs>
     <Route Name="Crusader Michiele" BackwardDirection="1">

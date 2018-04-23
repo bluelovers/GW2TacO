@@ -1,73 +1,73 @@
 <OverlayData>
-  <MarkerCategory name="jumpingpuzzle" iconFile="Data/jpguide.png" iconSize="0.75" triggerRange="5">
+  <MarkerCategory name="jumpingpuzzle" DisplayName="Jumping Puzzles" iconFile="Data/jpguide.png" iconSize="0.75" triggerRange="5">
     <MarkerCategory name="Start" iconFile="Data/jpstart.png" iconSize="1.5"/>
     <MarkerCategory name="Guide">
       <MarkerCategory name="Ascalon">
-        <MarkerCategory name="BehemGauntlet"/>
-        <MarkerCategory name="BrandedMine"/>
-        <MarkerCategory name="ChaosCrystalCavern"/>
-        <MarkerCategory name="CrazesFolly"/>
-        <MarkerCategory name="CrimsonPlateau"/>
-        <MarkerCategory name="GrendichGamble" triggerRange="2"/>
-        <MarkerCategory name="LoreclawExpanse"/>
-        <MarkerCategory name="PigIronQuarry" triggerRange="2"/>
-        <MarkerCategory name="WallBreachBlitz"/>
+        <MarkerCategory name="BehemGauntlet" DisplayName="Behem Gauntlet"/>
+        <MarkerCategory name="BrandedMine" DisplayName="Branded Mine"/>
+        <MarkerCategory name="ChaosCrystalCavern" DisplayName="Chaos Crystal Cavern"/>
+        <MarkerCategory name="CrazesFolly" DisplayName="Craze's Folly"/>
+        <MarkerCategory name="CrimsonPlateau" DisplayName="Crimson Plteau"/>
+        <MarkerCategory name="GrendichGamble" DisplayName="Grendich Gamble" triggerRange="2"/>
+        <MarkerCategory name="LoreclawExpanse" DisplayName="Loreclaw Expanse"/>
+        <MarkerCategory name="PigIronQuarry" DisplayName="Pig Iron Quarry" triggerRange="2"/>
+        <MarkerCategory name="WallBreachBlitz" DisplayName="Wall Breach Blitz"/>
       </MarkerCategory>
       <MarkerCategory name="Kryta" triggerRange="3">
-        <MarkerCategory name="DemongrubPits" triggerRange="5"/>
-        <MarkerCategory name="FawcettsBounty" triggerRange="5"/>
-        <MarkerCategory name="FawcettsRevenge" triggerRange="5"/>
-        <MarkerCategory name="NotSoSecret"/>
-        <MarkerCategory name="ProfessorPortmattsLab"/>
-        <MarkerCategory name="SkippingStones"/>
-        <MarkerCategory name="SwashbucklersCove" triggerRange="5"/>
-        <MarkerCategory name="TheCollapsedObservatory"/>
-        <MarkerCategory name="TrollsRevenge"/>
-        <MarkerCategory name="UnderNewManagement"/>
-        <MarkerCategory name="UrmaugsSecret"/>
-        <MarkerCategory name="WeyandtsRevenge"/>
+        <MarkerCategory name="DemongrubPits" DisplayName="Demongrub Pits" triggerRange="5"/>
+        <MarkerCategory name="FawcettsBounty" DisplayName="Fawcett's Bounty" triggerRange="5"/>
+        <MarkerCategory name="FawcettsRevenge" DisplayName="Fawcett's Revenge" triggerRange="5"/>
+        <MarkerCategory name="NotSoSecret" DisplayName="Not So Secret"/>
+        <MarkerCategory name="ProfessorPortmattsLab" DisplayName="Professor Portmatt's Lab"/>
+        <MarkerCategory name="SkippingStones" DisplayName="Skipping Stones"/>
+        <MarkerCategory name="SwashbucklersCove" DisplayName="Swashbuckler's Cove" triggerRange="5"/>
+        <MarkerCategory name="TheCollapsedObservatory" DisplayName="The Collapsed Observatory"/>
+        <MarkerCategory name="TrollsRevenge" DisplayName="Troll's Revenge"/>
+        <MarkerCategory name="UnderNewManagement" DisplayName="Under New Management"/>
+        <MarkerCategory name="UrmaugsSecret" DisplayName="Urmaug's Secret"/>
+        <MarkerCategory name="WeyandtsRevenge" DisplayName="Weyandt's Revenge"/>
       </MarkerCategory>
-      <MarkerCategory name="HeartOfMaguuma">
-        <MarkerCategory name="EggBearer"/>
-        <MarkerCategory name="HighestGear"/>
+      <MarkerCategory name="HeartOfMaguuma" DisplayName="Heart of Maguuma">
+        <MarkerCategory name="EggBearer" DisplayName="Egg Bearer"/>
+        <MarkerCategory name="HighestGear" DisplayName="Highest Gear"/>
       </MarkerCategory>
-      <MarkerCategory name="MaguumaJungle" triggerRange="3">
-        <MarkerCategory name="ConundrumCubed"/>
-        <MarkerCategory name="DarkReverie"/>
-        <MarkerCategory name="GoemmsLab" triggerRange="5"/>
-        <MarkerCategory name="HexfoundryUnhinged" triggerRange="5"/>
-        <MarkerCategory name="HiddenGarden"/>
-        <MarkerCategory name="MorgansLeap"/>
-        <MarkerCategory name="SpekkssLaboratory"/>
-        <MarkerCategory name="SpelunkersDelve"/>
+      <MarkerCategory name="MaguumaJungle" DisplayName="Maguuma Jungle" triggerRange="3">
+        <MarkerCategory name="ConundrumCubed" DisplayName="Conundrum Cubed"/>
+        <MarkerCategory name="DarkReverie" DisplayName="Dark Reverie"/>
+        <MarkerCategory name="GoemmsLab" DisplayName="Goemm's Lab" triggerRange="5"/>
+        <MarkerCategory name="HexfoundryUnhinged" DisplayName="Hexfoundry Unhinged" triggerRange="5"/>
+        <MarkerCategory name="HiddenGarden" DisplayName="Hidden Garden"/>
+        <MarkerCategory name="MorgansLeap" DisplayName="Morgan's Leap"/>
+        <MarkerCategory name="SpekkssLaboratory" DisplayName="Spekks's Laboratory"/>
+        <MarkerCategory name="SpelunkersDelve" DisplayName="Spelunker's Delve"/>
       </MarkerCategory>
-      <MarkerCategory name="MaguumaWastes">
-        <MarkerCategory name="ProspectValleyCrashSite"/>
-        <MarkerCategory name="DryDockScratch"/>
+      <MarkerCategory name="MaguumaWastes" DisplayName="Maguuma Wastes">
+        <MarkerCategory name="ProspectValleyCrashSite" DisplayName="Prospect Valley Crash Site"/>
+        <MarkerCategory name="DryDockScratch" DisplayName="Dry Dock Scratch"/>
       </MarkerCategory>
-      <MarkerCategory name="RingOfFire">
-        <MarkerCategory name="SkipUpTheVolcano"/>
+      <MarkerCategory name="RingOfFire" DisplayName="Ring of Fire">
+        <MarkerCategory name="SkipUpTheVolcano" DisplayName="Skip Up The Volcano"/>
       </MarkerCategory>
-      <MarkerCategory name="RuinsOfOrr">
-        <MarkerCategory name="AntreOfAdjournment" triggerRange="3"/>
-        <MarkerCategory name="BuriedArchives"/>
-        <MarkerCategory name="ScavengersChasm" behavior="4" resetLength="30"/>
-        <MarkerCategory name="TheViziersTower" triggerRange="3"/>
+      <MarkerCategory name="RuinsOfOrr" DisplayName="Ruins of Orr">
+        <MarkerCategory name="AntreOfAdjournment" DisplayName="Antre of Adjournment" triggerRange="3"/>
+        <MarkerCategory name="BuriedArchives" DisplayName="Buried Archives"/>
+        <MarkerCategory name="ScavengersChasm" DisplayName="Scavenger's Chasm" behavior="7" resetLength="30"/>
+        <MarkerCategory name="TheViziersTower" DisplayName="The Vizier's Tower" triggerRange="3"/>
       </MarkerCategory>
-      <MarkerCategory name="ShiverpeakMountains">
-        <MarkerCategory name="CoddlersCove"/>
-        <MarkerCategory name="GriffonrookRun"/>
-        <MarkerCategory name="KingJalissRefuge"/>
-        <MarkerCategory name="OnlyZuhl"/>
-        <MarkerCategory name="ShamansRookery"/>
-        <MarkerCategory name="ShatteredIceRuins"/>
-        <MarkerCategory name="TribulationCaverns" triggerRange="3"/>
-        <MarkerCategory name="TribulationRiftScaffolding"/>
+      <MarkerCategory name="ShiverpeakMountains" DisplayName="Shiverpeak Mountains">
+        <MarkerCategory name="CoddlersCove" DisplayName="Coddler's Cove"/>
+        <MarkerCategory name="GriffonrookRun" DisplayName="Griffonrook Run"/>
+        <MarkerCategory name="KingJalissRefuge" DisplayName="King Jalis's Refuge"/>
+        <MarkerCategory name="OnlyZuhl" DisplayName="Only Zuhl"/>
+        <MarkerCategory name="ShamansRookery" DisplayName="Shaman's Rookery"/>
+        <MarkerCategory name="ShatteredIceRuins" DisplayName="Shattered Ice Ruins"/>
+        <MarkerCategory name="TribulationCaverns" DisplayName="Tribulation Caverns" triggerRange="3"/>
+        <MarkerCategory name="TribulationRiftScaffolding" DisplayName="Tribulation Rift Scaffolding"/>
       </MarkerCategory>
-      <MarkerCategory name="TheMists" triggerRange="3">
-        <MarkerCategory name="MistlockMountaineer"/>
-        <MarkerCategory name="MistwroughtVault"/>
-        <MarkerCategory name="ObsidianSanctum"/>
+      <MarkerCategory name="TheMists" DisplayName="The Mists" triggerRange="3">
+        <MarkerCategory name="MistlockMountaineer" DisplayName="Mistlock Mountaineer"/>
+        <MarkerCategory name="MistwroughtVault" DisplayName="Mistwrought Vault"/>
+        <MarkerCategory name="ObsidianSanctum" DisplayName="Obsidian Sanctum"/>
       </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
